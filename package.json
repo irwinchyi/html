@@ -1,0 +1,24 @@
+{
+  "name": "itdtp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "author": "",
+  "description": "",
+    
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
