@@ -2,6 +2,7 @@ module.exports = {
     title: 'ITDTP的',
     description: 'Just playing around',
     themeConfig: {
+        sidebar: 'auto',
         nav: [
             { text: '主页', link: '/'},
             { text: 'AE', link: '/ae/'},
@@ -32,5 +33,5 @@ module.exports = {
             link: '/code/'},
             { text: 'Back to Portfolio', link: 'https://irwinqi.com'},
         ],
-        sidebar: 'auto',
+    },
 }
