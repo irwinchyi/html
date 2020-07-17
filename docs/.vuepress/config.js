@@ -32,12 +32,5 @@ module.exports = {
             link: '/code/'},
             { text: 'Back to Portfolio', link: 'https://irwinqi.com'},
         ],
-        sidebar: {
-            '/ae/' : [
-                '',
-                'frontend',
-                'backend'
-            ]
-        }
-    }
+        sidebar: 'auto',
 }
