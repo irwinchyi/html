@@ -9,14 +9,14 @@ module.exports = {
                 items: [
                     {
                     text: '建模 Modeling', items: [
-                        { text: 'Cinema 4D', link: '/c4d/01.Cinema4D'},
-                        { text: 'Cinema 4D', link: '/c4d/01.Cinema4D'},
+                        { text: 'Cinema 4D', link: '/c4d/01.Cinema4D/'},
+                        { text: 'Cinema 4D', link: '/c4d/01.Cinema4D/'},
                     ]
                         },
                     {
                     text: '渲染 Rendering', items: [
-                        { text: 'Octane', link: '/c4d/02.Octane'},
-                        { text: 'Redshift', link: '/c4d/03.Redshift'},
+                        { text: 'Octane', link: '/c4d/02.Octane/'},
+                        { text: 'Redshift', link: '/c4d/03.Redshift/'},
                     ]
                         },
                 ]
