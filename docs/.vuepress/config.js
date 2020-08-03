@@ -31,6 +31,7 @@ module.exports = {
                     }
                 ],
             link: '/code/'},
+            { text: 'Grammar', link: '/grammar/'},
             { text: 'Back to Portfolio', link: 'https://irwinqi.com'},
         ],
     },
