@@ -4,21 +4,18 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.2"
+    "vuepress": "^1.5.2",
+    "vuepress-plugin-auto-sidebar": "^1.5.0",
+    "vuepress-plugin-autobar": "github:boboidream/vuepress-bar"
   },
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "directories": {
     "doc": "docs"
   },
   "dependencies": {},
   "author": "",
-  "description": "",
-    
-  "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  }
+  "description": ""
 }

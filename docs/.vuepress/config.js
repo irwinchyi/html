@@ -1,38 +1,27 @@
 module.exports = {
-    title: 'ITDTP的',
+    title: 'ITDTP Notes',
     description: 'Just playing around',
     themeConfig: {
-        sidebar: 'auto',
         nav: [
-            { text: '主页', link: '/'},
-            { text: 'AE', link: '/ae/'},
-            { text: 'C4D', 
-                items: [
-                    {
-                    text: '建模 Modeling', items: [
-                        { text: 'Cinema 4D', link: '/c4d/01.Cinema4D/'},
-                        { text: 'Cinema 4D', link: '/c4d/01.Cinema4D/'},
-                    ]
-                        },
-                    {
-                    text: '渲染 Rendering', items: [
-                        { text: 'Octane', link: '/c4d/02.Octane/'},
-                        { text: 'Redshift', link: '/c4d/03.Redshift/'},
-                    ]
-                        },
-                ]
-            },
-            { text: 'Code',
-                items: [
-                    {
-                        text: '前端 Front End', items: [
-                            { text: '前端开发指南', link: '/ae/'},
-                        ]
-                    }
-                ],
-            link: '/code/'},
-            { text: 'Grammar', link: '/grammar/'},
+            { text: 'Cinema 4D',
+            items: [
+                {text: 'C4D', link: '/Cinema 4D/'},
+                {text: 'Octane', link: '/Cinema 4D/Octane/'},
+            ]  
+        },
+        { text: '语法',
+            items: [
+                {text: '时态', link: '/Grammar/Tense/'},
+                {text: 'Octane', link: '/Cinema 4D/Octane/'},
+            ]  
+        },
             { text: 'Back to Portfolio', link: 'https://irwinqi.com'},
         ],
+        sidebar: 'auto',
     },
-}
+    plugins: {
+    "vuepress-plugin-auto-sidebar": {
+        nav: true
+    }
+  },
+};
