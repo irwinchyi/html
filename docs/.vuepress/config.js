@@ -5,7 +5,6 @@ module.exports = {
         repo: 'irwinchyi/html',
         editLinks: true,
         docsDir: 'docs',
-        docsBranch: 'master',
         lastUpdated: 'Last Updated',
         nav: [
             { text: 'Cinema 4D',
