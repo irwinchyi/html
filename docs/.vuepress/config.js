@@ -9,19 +9,36 @@ module.exports = {
                 {text: 'Octane', link: '/Cinema 4D/Octane/'},
             ]  
         },
+        { text: 'AE',
+            items: [
+                {text: 'AE Pending', link: '/Cinema 4D/'},
+                {text: 'Pending', link: '/Cinema 4D/Octane/'},
+            ]  
+        },
         { text: '语法',
             items: [
                 {text: '时态', link: '/Grammar/Tense/'},
                 {text: 'Octane', link: '/Cinema 4D/Octane/'},
             ]  
         },
+        { text: 'Fitness',
+            items: [
+                {text: 'CPT', link: '/Exercise/CPT/'},
+                {text: 'Exercise Science', link: '/Exercise/Exercise Science/'},
+            ]  
+        },
             { text: 'Back to Portfolio', link: 'https://irwinqi.com'},
         ],
         sidebar: 'auto',
     },
-    plugins: {
-    "vuepress-plugin-auto-sidebar": {
+    plugins: [
+    "vuepress-plugin-auto-sidebar",{
         nav: true
-    }
-  },
+        },
+    'vuepress-plugin-clean-urls',{
+        normalSuffix: '/',
+        indexSuffix: '/',
+        notFoundPath: '/404.html',
+      },
+    ]
 };
