@@ -35,11 +35,6 @@ module.exports = {
     "vuepress-plugin-auto-sidebar",{
         nav: true
         },
-    'vuepress-plugin-clean-urls',{
-        normalSuffix: '/',
-        indexSuffix: '/',
-        notFoundPath: '/404.html',
-      },
     '@vuepress/last-updated',
     ]
 };
