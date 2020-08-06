@@ -40,5 +40,6 @@ module.exports = {
         indexSuffix: '/',
         notFoundPath: '/404.html',
       },
+    '@vuepress/last-updated',
     ]
 };
