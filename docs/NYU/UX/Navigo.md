@@ -18,8 +18,6 @@ Working on Sketch files
 
 
 
-
-
 ## Sketch your Solution on paper
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Sketch%201.jpg) 
