@@ -2,6 +2,11 @@ module.exports = {
     title: 'ITDTP Notes',
     description: 'Just playing around',
     themeConfig: {
+        repo: 'irwinchyi/html',
+        editLinks: true,
+        docsDir: 'docs',
+        docsBranch: 'master',
+        lastUpdated: 'Last Updated',
         nav: [
             { text: 'Cinema 4D',
             items: [
@@ -36,5 +41,5 @@ module.exports = {
         nav: true
         },
     '@vuepress/last-updated',
-    ]
+    ],
 };
