@@ -4,19 +4,19 @@ title: Navigo - Personal UX Project, NYU Summer
 
 
 
-
-
 # Navigo —— Irwin's Personal UX Project
 
+::: tip Project Updates 
+
+Interviewed with 3 blind users
+
+Working on Sketch files
+
+:::
 
 
-Project updates: 
 
-- Currently working on the Low and High Definition Prototype on Sketch. 
 
-- Interviewed one candidate: Gus and gathered his response. 
-
-- Will Contact Alex via text. 
 
 
 
