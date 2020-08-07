@@ -3,7 +3,6 @@ module.exports = {
     description: 'Just playing around',
     themeConfig: {
         repo: 'irwinchyi/html',
-        editLinks: true,
         docsDir: 'docs',
         lastUpdated: 'Last Updated',
         nav: [
