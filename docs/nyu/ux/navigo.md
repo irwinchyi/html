@@ -34,22 +34,6 @@ Please click link above to see latest changes on my Sketch content
 
 
 
-## Create interview questions around your project 
-
-### Find 3 people to interview
-
-**Log**
-
-Contact with:
-
-**Outlook Nebraska**, which is non-profit organization providing job opportunities for everyone who is blind and visually impaired. 
-
-Contact: Donna. Left a voicemail waiting for hear back from them. 
-
-**UNL SSD Office**, emailed, waiting. 
-
-**Omaha Association of Blind**, left a voicemail. Waiting for call back. 
-
 
 
 ## Interview
@@ -61,37 +45,19 @@ Contact: Donna. Left a voicemail waiting for hear back from them.
 
 
 
-#### Interview Questions and Response, Interviewee: Gus 
+#### Interview Questions
 
 ##### TTS/Screen Reader and accessibility functions
 
-- **Which TTS are you currently using? Voiceover or any additional program?** 
+- Which TTS are you currently using? Voiceover or any additional program? 
 
-  Voiceover when iOS, macOS, Apple TV, JAWS windows for productivity, 
+- How do you get news, podcast or TTS or both? 
 
-  Prefer iPhone, most stable portable operating system. 
+- Does the screenreader read a lot irrelevant content on the page and how do you avoid that? 
 
-- **How do you get news, podcast or TTS or both?** 
+- Follow up: For average length article you read online, how much contents is irrelevant (like digital ads)?
 
-  Not podcast person, just use screenreader, go to website, read articles. Don't listen to podcast. 
-
-- **Does the screenreader read a lot irrelevant content on the page and how do you avoid that?** 
-
-  Impossible to avoid the irrelevant content, technique skipping the advertisement. 
-
-  It takes some work to explore what his want or doesn't want. 
-
-  Website: Flash enable, advertising, screen reader keep stuck. 
-
-  It can be really frustrating, too stressful. 
-
-- **Follow up: For average length article you read online, how much contents is irrelevant (like digital ads)?**
-
-  Range to 20 to 30 percent. Sometimes more than. 
-
-- **Do you use reader mode on your Chrome or Safari to filtrate digital ads**? 
-
-  Don't. Safari is not prefer browsers. 
+- Do you use reader mode on your Chrome or Safari to filtrate digital ads? 
 
 
 
@@ -99,13 +65,9 @@ Contact: Donna. Left a voicemail waiting for hear back from them.
 
 - **How do you find new online resources which optimized for blind people?** 
 
-  Google it, there is no real way to tell if it's screenreader. Looking for an alternative. Use their mobile site and optimized for screen reading. Amazon.com, amazon.com/acess, m.facebook.com. audible.com/acess. 
+- Which part of web you don't like? Examples like ads?
 
-  Before the smart with apps came out, people have web browser to use too much data, scale down version. 
-
-- **Which part of Google Search engine you don't like? Examples like ads?**
-
-  Website, not coded properly. Not read it well. There is no consistency. I don't know what to expect to go to a new website. 
+  
 
 
 
@@ -113,17 +75,59 @@ Contact: Donna. Left a voicemail waiting for hear back from them.
 
 - **In which channel, you recommend/share movies, music, TV shows and online resources mentioned before to other people who is has vision disabilities?** 
 
-  Text, email, phone call. Most blind people, share informative back and forth. 
+  **Do you use any online community, like Facebook group, Reddit, text group?**
 
-- **Do you use any online community, like Facebook group, Reddit, text group?**
-
-  One group, Facebook. Audio description, blind number group in Facebook. "I am not jointer, what to part of group, find things on my own, two Facebook page, for Apple Accesbility, appleviz.com, review it accesbiliable, tend to do my. "
+  
 
 
+| TTS Related Qs                     | Answers and Insight                                          |
+| :--------------------------------- | ------------------------------------------------------------ |
+| Which TTS are you currently using? |                                                              |
+|                                    | - Voiceover when iOS, macOS, Apple TV, JAWS windows for productivity<br />- Preferably using iPhone, most stable portable operating system. |
+|                                    | - JAWS and NVDA, Voiceover on the iPhone                     |
+|                                    | - JAWS and Voiceover on the iPhone                           |
+| News Source?                       |                                                              |
+|                                    | - Not podcast person, just use screenreader, go to website, read articles. Don't listen to podcast. |
+|                                    | - Latest, perfect news sources, combination of video, text. Online, NPR website, Newsline.<br />Read out loud by, NPR story, video and audio. Combination. |
+|                                    | - Boston Global, NF News line, JAWS and iPhone. Text of Speech. |
+| Irrelevant content and Avoid it    |                                                              |
+|                                    | - A lot of them, news. Pop ups. Subscript, reading the article, ads in the middle, article the broken. You can do the phone app, |
+|                                    | - Can't really avoid, depends on the site, have to skip them. |
+|                                    | - You are force to read the whole ads, you don't hit the whole thing. You can't Skip |
+|                                    | - Impossible to avoid the irrelevant content, technique skipping the advertisement. |
+|                                    | - It takes some work to explore what his want or doesn't want. |
+|                                    | - Website: Flash enable, advertising, screen reader keep stuck, It can be really frustrating, and stressful. |
+| How much is irrelevant?            |                                                              |
+|                                    | - Not too much, 10%                                          |
+|                                    | - Range to 20 to 30 percent. Sometimes more than that.       |
+| Reader Mode?                       |                                                              |
+|                                    | - 2 No and 1 Yes                                             |
 
-#### Interview Questions and Response, Interviewee: Alex
 
-Pending, will contact. 
+
+| Online Resources    | Answers                                                      |
+| ------------------- | ------------------------------------------------------------ |
+| How do you find it? |                                                              |
+|                     | - Don't find, go where I need to go, New sources, from Organization is coming from. Not CNN or NBC for news, Guardian for news, social media. |
+|                     | Google it, there is no real way to tell if it's screenreader. Looking for an alternative. Use their mobile site and optimized for screen reading. Amazon.com, amazon.com/acess, m.facebook.com. audible.com/acess.<br />-Before the smart with apps came out, people have web browser to use too much data, scale down version is usually better for screenreaders. |
+|                     | - I don't use my computer for movies, use Apple TV, computer is just for work and typing and hobby. Not for watch media or listing to media. On the phone. |
+|                     | - Facebook Groups, so many app coming out and discontinue, or Google it. |
+| Dislikes            |                                                              |
+|                     | Website, not coded properly. Not read it well. There is no consistency. I don't know what to expect to go to a new website. |
+| Recommendations     |                                                              |
+|                     | - Gmail, Ads, checking and headings, easy to jump to. Tell where you are the pages. |
+|                     | Standard Gmail site, most parts.                             |
+|                     | YouTube often accessible player, turn on and turn off accessibility. |
+
+| Community Related Q                   | Answers                                                      |
+| ------------------------------------- | ------------------------------------------------------------ |
+| Channel to Share and Discover New One |                                                              |
+|                                       | - Facebook Group, Twitter.                                   |
+|                                       | One group, Facebook. Audio description, blind number group in Facebook. "I am not jointer, what to part of group, find things on my own, two Facebook page, for Apple Accesbility, appleviz.com, review it accesbiliable, tend to do my. " |
+|                                       | - Dable.io App                                               |
+|                                       | - Text, email, phone call. Most blind people, share informative back and forth. |
+
+
 
 #### 
 
