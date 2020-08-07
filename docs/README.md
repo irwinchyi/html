@@ -28,7 +28,7 @@ NYU Summer Class项目
 
 #### 随缘健身
 
-[Exercise Science](./Exercise/Exercise Science)
+[Exercise Science](./Exercise/Exercise%20Science)
 
 
 
