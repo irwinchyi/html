@@ -16,6 +16,19 @@ footer: MIT Licensed Powered by VuePress | Copyright © 2020 | Irwin Qi
 ---
 
 # Welcome 欢迎
-最近的项目
-[Navigo](./nyu/ux/1navigo) NYU Summer Class项目
+### 最近在整个啥？
+
+#### 好好学习
+
+[Navigo](./nyu/ux/1navigo) 
+
+NYU Summer Class项目
+
+
+
+#### 随缘健身
+
+[Exercise Science](./Exercise/Exercise Science)
+
+
 
