@@ -2,8 +2,6 @@ module.exports = {
     title: 'ITDTP Notes',
     description: 'Just playing around',
     themeConfig: {
-        repo: 'irwinchyi/html',
-        docsDir: 'docs',
         lastUpdated: 'Last Updated',
         nav: [
             { text: 'Cinema 4D',
