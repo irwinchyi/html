@@ -30,7 +30,7 @@ Working on Sketch files
 
 [Sketch Cloud File](https://www.sketch.com/s/51de2f64-62e5-49ae-902b-c3fa63d38b93)
 
-Please click link above to see latest changes on my Sketch content 
+Please click link above to see latest update. 
 
 
 
@@ -40,7 +40,7 @@ Please click link above to see latest changes on my Sketch content
 
 #### Interview Goal
 
-- Understand their pain points while using online search services. 
+- Understand their pain points while using surfing the internet using screenreader. 
 - Ask their thought about community resources 
 
 
