@@ -26,7 +26,7 @@ Good morning everybody The Augmented Reality gaming space within the blind commu
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Final%20Pitch%20-%20Group%202-02.jpg)
 
-> Imagine Description: Text
+> Image Description: Text
 >
 > **Jack Lee**
 >
@@ -64,7 +64,7 @@ Now I will hand it over to Victoria to talk about our Research process.
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Final%20Pitch%20-%20Group%202-03.jpg)
 
-> Imagine Description: Text
+> Image Description: Text
 >
 > **Research** **Methodology**
 >
@@ -87,7 +87,7 @@ After our initial creation of the product we will need to test its usability. We
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Final%20Pitch%20-%20Group%202-04.jpg)
 
-> Imagine Description
+> Image Description
 >
 > Text:
 >
@@ -106,7 +106,7 @@ We asked Gus: Do you like to play games? Gus used to love audio games [on his ph
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Final%20Pitch%20-%20Group%202-05.jpg)
 
-> Imagine Description:
+> Image Description:
 >
 > Text: The International Game Developers Association estimates 10 to 20% of people don't play video games because of a disability.
 
@@ -116,7 +116,7 @@ We asked Gus: Do you like to play games? Gus used to love audio games [on his ph
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Final%20Pitch%20-%20Group%202-06.jpg)
 
-> Imagine Description:
+> Image Description:
 >
 > **Competitive Analysis**
 >
@@ -140,7 +140,7 @@ Finally, we have Lost and hound, a Console game that is about a dog in a virtual
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Final%20Pitch%20-%20Group%202-07.jpg)
 
-> Imagine Description:
+> Image Description:
 >
 > Icon: Imagine of Xbox Adaptive Controller 
 >
@@ -158,7 +158,7 @@ Now we will be playing a video from a Youtuber called the blind gamer, who is a 
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Final%20Pitch%20-%20Group%202-09.jpg)
 
-> Imagine Description:
+> Image Description:
 >
 > - Focus on Binaural sounds
 >
@@ -186,7 +186,7 @@ How might we introduce a unique and shareable AR gaming experience for individua
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Final%20Pitch%20-%20Group%202-11.jpg)
 
-> Imagine Description: 
+> Image Description: 
 >
 > Pink background. Music Cross Icon, Music Cross prototype in iPhone X. Download on the App Store Button, Apple TV Button, Get it on Google Play button. 
 
@@ -260,7 +260,7 @@ It will give you an audio cue once it detects the anchor point. You can print an
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Final%20Pitch%20-%20Group%202-19.jpg)
 
-> Imagine Description:  Text
+> Image Description:  Text
 >
 > **Low Efforts, Now:**
 >
