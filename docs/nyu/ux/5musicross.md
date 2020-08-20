@@ -285,6 +285,10 @@ It will give you an audio cue once it detects the anchor point. You can print an
 > - Update a large repertoire of musical elements
 > - Global community with endless creation options
 
+### Ariel
+
+For the feature prioritization, our team has designed the basic game format including the augmented reality component and the accessible and inviting interface. We have also identified the game play functionality using tabs and AR spacial awareness to represent the game play.
+
 ### Aman
 
 In the near future, we envision Musicross to have a larger collection of musical elements from all around the world with a variety of instruments. We would like to integrate social platforms such as FB and Instagram for users to share their performance with their social communities. Additionally, we would want to have a feedback system for our users in built so we can focus on the important changes in future updates with our direct user feedback. We also envision a voice integration feature where users can sing along with the levels as an added feature to record their levels and sing along with the music. Finally, we would like to test these features with ability studies and then gather our user data to formulate our gameplay.
