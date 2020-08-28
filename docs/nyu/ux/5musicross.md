@@ -152,6 +152,8 @@ In fact, our original idea was to make AR based using general games such as Uno,
 
 Now we will be playing a video from a Youtuber called the blind gamer, who is a partially blind individual. He reviewed the game the last of us pt II and in this upcoming video he explains the elements that allows for a non-sighted user to be able to play. This will show us the importance of sound in gaming and how it is essential when designing a game for our blind users.
 
+[Video Link](https://vimeo.com/449373527)
+
 <iframe src="https://player.vimeo.com/video/449373527" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Post Research & Interview
@@ -204,6 +206,8 @@ After opening the app, there will be a welcome page saying “Welcome to musicro
 
 <iframe src="https://player.vimeo.com/video/449373432" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+> [Video Link](https://vimeo.com/449373425)
+>
 > Video description:
 >
 > This 3D Animation demonstration video is showing a phone is floating on a world map. The phone moves up and down. The front of the phone is facing and point towards different continents on the map.
@@ -232,6 +236,8 @@ Now Irwin is going to demonstrate the AR mode for us
 
 <iframe src="https://player.vimeo.com/video/449373453" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+> [Video Link](https://vimeo.com/449373425)
+>
 > Video description:
 >
 > A white desk table has an iMac, keyboard and mice on it. Keyboard and mice were Removed. the iPhone is placed on the table and its side stands up against a clay pot of grass to hold its position. 
@@ -240,11 +246,13 @@ Now Irwin is going to demonstrate the AR mode for us
 
 <iframe src="https://player.vimeo.com/video/449373425" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+> [Video Link](https://vimeo.com/449373425)
+>
 > Video description:
 >
 > Second Scene, Recorded Video with AR Animation Overlay:
 >
->  Irwin sits in front of his desk table, he uses his pens to poke 4 black diamond shapes. And every poke has sound. Feels like he is using two pens as drumsticks, and the 4 diamond shapes are virtual keys of percussion instruments. 
+> Irwin sits in front of his desk table, he uses his pens to poke 4 black diamond shapes. And every poke has sound. Feels like he is using two pens as drumsticks, and the 4 diamond shapes are virtual keys of percussion instruments. 
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Final%20Pitch%20-%20Group%202-16.jpg)
 
