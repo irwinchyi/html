@@ -25,17 +25,18 @@ module.exports = {
         { text: 'Fitness',
             items: [
                 {text: 'CPT', link: '/Exercise/CPT/'},
-                {text: 'Exercise Science', link: '/Exercise/Exercise Science/'},
+                {text: 'Exercise Science', link: '/Exercise/ExerciseScience/'},
             ]  
         },
             { text: 'Back to Portfolio', link: 'https://irwinqi.com'},
         ],
-        sidebar: 'auto',
+        sidebar: 'auto'
     },
     plugins: [
     "vuepress-plugin-auto-sidebar",{
         nav: true
         },
     '@vuepress/last-updated',
+    '@vuepress/medium-zoom',
     ],
 };

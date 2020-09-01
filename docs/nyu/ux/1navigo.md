@@ -4,17 +4,25 @@ title: Navigo - Personal UX Project, NYU Summer
 
 
 
-# Navigo —— Irwin's Personal UX Project
+# Navigo ——  UX Project
 
 ::: tip Project Updates 
 
-Interviewed with 3 blind users
+Updated Prototype Page down below
+
+Still working on conduct a usability test
 
 Working on Sketch files
 
 :::
 
 
+
+## :new: Updates 9/1
+
+Please visit here for [Prototype](6NavigoPrototype)
+
+[Usability Test](6NavigoUT) is still updating, please check back in a few days. 
 
 
 
