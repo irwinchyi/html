@@ -115,3 +115,129 @@ Focuses on strengthening one leg at a time
 
 ### Muscle Used
 
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20200828212638.png)
+
+Gluteus Maximus
+
+Quadriceps
+
+Hamstrings
+
+
+
+## Push
+
+A pushing movement involves pushing weight away from the body and then controlling the weight back down. 
+
+- There are two types of pushing movements: horizontal push, and a vertical push. 
+
+
+
+**Horizontal Push** 
+
+Moving a weight straight out in front of you so you are moving the weight away from your torso horizontal. 
+
+
+
+**Vertical Push** 
+
+Moving a weight up vertically in relation to your torso 
+
+
+
+### Muscle Used
+
+**Chest**
+
+Responsible for moving the arms away from the body, across the body, and up and down. 
+
+**Shoulders (Deltoids)** 
+
+Responsible for most of arm rotation and is a stabilizer when you are carrying objects. 
+
+**Triceps**
+
+Its Located at the back of your arm and is responsible for extending the forearm at the elbow joint. 
+
+
+
+## Pull
+
+Is when you are contracting muscles and pulling the weight towards your body. There are two types: Horizontal pull and Vertical pull.
+
+**Horizontal Pull**
+
+- Moving a weight straight in towards your torso horizontally from straight out in front of you
+
+- Bent over rows, seated cable rows, DB rows 
+
+
+
+**Vertical Pull**
+
+- Pulling the weight vertically to your body in relation to your torso 
+
+- Pull-ups, lat pulldowns, Chin ups
+
+- Push/Pull ratio should be 1:1 or 1:2 
+
+
+
+### Muscle Used
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20200828213049.png)
+
+
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20200828213058.png)
+
+
+
+## Rotation
+
+Rotational movements are simple twisting exercises, like throwing a ball, kicking a ball or changing directions. 
+
+Focuses on strengthening core stability 
+
+Exercises
+
+Rotational wood chops, medicine ball twists and throws, Russian twists
+
+Anti-Rotation
+
+The ability to prevent core rotation 
+
+### Muscle Used
+
+**Rectus Abdominis (abs)**
+
+Located in the front of the body 
+
+Responsible for flexing and rotating the trunk 
+
+**Obliques**
+
+Located on each side of the rectus abdominis, run from the low ribs to the pelvis 
+
+**Low back stabilizing muscles** 
+
+Located in your upper and lower spine 
+
+Stabilizes the lower portion of your back during lifts 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
