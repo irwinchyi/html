@@ -1,5 +1,5 @@
 ---
-itle: Six Basic Movements
+title: Six Basic Movements
 sidebarDepth: 2
 ---
 

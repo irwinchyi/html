@@ -1,10 +1,15 @@
 ---
 title: 首页
-autoNext: a心肺适应和训练注意事项
+autoNext: 0SixBasicMovements
 ---
 
 # Exercise Science
 
-这里是首页
+欢迎来到Exercise Science
 
-[第一章：心肺适应和训练注意事项]()
+
+
+## 基础
+
+[6种基础动作](0SixBasicMovements)
+

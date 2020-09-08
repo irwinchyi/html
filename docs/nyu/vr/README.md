@@ -3,7 +3,7 @@ title: VR Process Blog
 lang: en-US
 sidebarDepth: 2
 home: true
-heroImage: /hero.png
+heroImage: /images/vrhero.png
 heroText: VR Process Blog
 tagline: Welcome
 actionText: null
