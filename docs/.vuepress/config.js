@@ -2,6 +2,7 @@ module.exports = {
     title: 'ITDTP Notes',
     description: 'ITDTP Notes',
     themeConfig: {
+        smoothScroll: true,
         lastUpdated: 'Last Updated',
         nav: [
             { text: 'Motion',
@@ -41,9 +42,9 @@ module.exports = {
         sidebar: 'auto'
     },
     plugins: [
-    "vuepress-plugin-auto-sidebar",{
-        nav: true
-        },
-    '@vuepress/medium-zoom',
-    ],
+        "vuepress-plugin-auto-sidebar",{
+            nav: true
+            },
+        '@vuepress/medium-zoom',
+        ],
 };
