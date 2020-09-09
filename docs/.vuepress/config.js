@@ -44,7 +44,6 @@ module.exports = {
     "vuepress-plugin-auto-sidebar",{
         nav: true
         },
-    '@vuepress/last-updated',
     '@vuepress/medium-zoom',
     ],
 };
