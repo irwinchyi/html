@@ -20,7 +20,7 @@ If embedded media file is not showing properly, please [visit here](https://edit
 
 2. Get the polygon points X and Y Axis, also Filling Color 
 
-   <img src="https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20200909113726.png" style="zoom:50%;" />
+   <img src="https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20200909113726.png"  />
 
 3. Using triangle(), and quad() to create polygon 
 
@@ -31,7 +31,7 @@ quad(x1,y1,x2,y2,x3,y3,x4,y4);
 
 4. Using Adobe Illustrator, draw the face, followed a tutorial down below in Reference Section 
 
-   <img src="https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20200909114430.png" style="zoom: 33%;" />
+   <img src="https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20200909114430.png"  />
 
 5. Use same method to create the half of the face
 6. Create function called 'halfface()', reuse this function and flip horizontally 
