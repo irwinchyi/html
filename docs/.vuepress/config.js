@@ -1,6 +1,6 @@
 module.exports = {
     title: 'ITDTP Notes',
-    description: 'Just playing around',
+    description: 'ITDTP Notes',
     themeConfig: {
         lastUpdated: 'Last Updated',
         nav: [
