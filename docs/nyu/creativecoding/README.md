@@ -1,5 +1,5 @@
 ---
-title: Creative Coding
+title: Index - Creative Coding
 lang: en-US
 sidebarDepth: 2
 autoNext: 001_Selfie
