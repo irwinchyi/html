@@ -6,7 +6,9 @@ sidebarDepth: 2
 
 # 12 Weeks Program
 
-Hello, welcome. This is my 12 weeks program. 
+
+
+Hello and welcome. This is my 12 weeks program. 
 
 Due to my past femur injury and knee limitation, the goal of lower body will focus more rehabilitation. 
 
@@ -14,9 +16,11 @@ Due to my past femur injury and knee limitation, the goal of lower body will foc
 - Slowly adding overload compare to upper body
 - Focus on more joint stability rather than strength
 
+I injured my Rhomboid somehow, I am talking this week off and next week as deload / rest week. 
+
 ## Warm-up
 
-The order of exercises is not correct, will change that in the correct order later. 
+The order of exercises might not correct, I will change that in the correct order later. 
 
 ### Push day warm up
 

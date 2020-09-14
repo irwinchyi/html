@@ -1,0 +1,24 @@
+---
+title: Ideation & Prototyping Fall 2020
+lang: en-US
+sidebarDepth: 2
+---
+
+# Ideation & Prototyping 
+
+Welcome
+
+
+
+## Quick Links
+
+[Class Schedule](https://wp.nyu.edu/ideationandprototyping/class-schedule/)
+
+[Assignments](https://wp.nyu.edu/ideationandprototyping/assignments/)
+
+
+
+## Weekly Assignment
+
+[Week 1: Fantasy Device Sketches](Week1)
+
