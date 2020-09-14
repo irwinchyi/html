@@ -30,11 +30,12 @@ module.exports = {
                 {text: 'Anatomy', link: '/Exercise/Anatomy/'},
             ]  
         },
-        { text:'Learn',
+        { text:'2020 Fall',
             items: [
                 {text: 'Creative Coding', link: '/nyu/creativecoding/'},
                 {text: 'VR', link:'/nyu/vr/'},
-                {text: 'UX', link:'/nyu/ux/'}
+                {text: 'UX', link:'/nyu/ux/'},
+                {text: 'I&P', link:'/nyu/IandP/'}
             ] 
         },
             { text: 'Back to Portfolio', link: 'https://irwinqi.com'},

@@ -1,24 +1,23 @@
 ---
-title: Irwin's VR Process Blog
+title: VR Process Blog
 lang: en-US
 sidebarDepth: 2
 home: true
 heroImage: /images/vrhero.png
 heroText: VR Process Blog
 tagline: Welcome
-actionText: Class Website
-actionLink: https://carla-gannis.gitbook.io/dm-gy-9103-vr-fa-2020-1/
+actionText: null
+actionLink: null
 features:
-- title: Update Content Later
-  details: [Name](Link)
+- title: null
+  details: null
 - title: Update Content Later
   details: null
 - title: Update Content Later
   details: Null
-
 ---
 
-## Weekly Assignments
+## Welcome
 
-[Week 1](Week1)
+Content TBD
 
