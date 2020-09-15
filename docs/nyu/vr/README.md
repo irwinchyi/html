@@ -8,16 +8,14 @@ heroText: VR Process Blog
 tagline: Welcome
 actionText: null
 actionLink: null
-features:
-- title: null
-  details: null
-- title: Update Content Later
-  details: null
-- title: Update Content Later
-  details: Null
 ---
 
-## Welcome
+# Welcome to my VR Process Blog
 
-Content TBD
+Hello!
 
+Glad you are here! 😊 Also I'm glad my website is still working, it could be very buggy when I try something new on the backend. 
+
+## Weekly Assignment
+
+[Week 1](Week1)

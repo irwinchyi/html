@@ -10,7 +10,7 @@ sidebarDepth: 2
 Our group was short on time during the discussion time due to Zoom connection issue. Couple of days ago, when I do my dishes, I came up with this idea. I hope it's okay to deviate from our group idea. 
 :::
 
-## Auto Load - Deload Dishwasher
+## Auto Load - Unload Dishwasher
 
 ### Sketch
 
