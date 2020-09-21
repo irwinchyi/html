@@ -22,3 +22,5 @@ Welcome
 
 [Week 1: Fantasy Device Sketches](Week1)
 
+[Week 2: Endangered Animal](Week2)
+
