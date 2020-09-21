@@ -4,7 +4,25 @@ lang: en-US
 sidebarDepth: 2
 ---
 
+# Assignment 2 PAClock
 
+## Result
+
+If embedded media file is not showing properly, [codes here](https://editor.p5js.org/irwinchyi/sketches/6yhcoXL7a).
+
+<iframe src="https://editor.p5js.org/irwinchyi/embed/6yhcoXL7a" width="1000px" height="600px" style="overflow: hidden;"></iframe>
+
+The shape of the clock arc reminds me of Pac Man game. 
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/pac_man_hed.jpg.png)
+
+> BY DIEGO MOYA - OWN WORK, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0), [WIKIMEDIA COMMONS](https://commons.wikimedia.org/w/index.php?curid=18072455)
+
+</br>
+
+So why not create a Pac Man theme clock?
+
+The issue I encountered was: the second arc is moving too jumpy. Every motion designer can't live with ease in and out. I was trying to find a solution to create in between frame of the second arc movement. 
 
 After stuck here forever, I asked Scott and he provided me this example down below: 
 
@@ -66,4 +84,6 @@ function draw() {
   psec = second();
 }
 ```
+
+## Reading Assignment
 
