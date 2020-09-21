@@ -22,6 +22,12 @@ According to WWF, Asian elephants, the largest manual inhabited dry to west fore
 
 > Image from Wikipedia, No CC, Public Domain, gathered from [WikiPedia List of Thai Flags](https://en.wikipedia.org/wiki/List_of_Thai_flags)
 
+In our culture, although it's not sacred as Thai culture, we value and symbolize elephants. As qualities like erudite, sophisticated. Also, in Mandarine, 象(elephants) has the same pronunciation as 祥 (auspicious). It's given the meaning of lucky, auspicious, healthy. We describe elephants as powerful, giant with superior strength, but still moderate in temper. Also symbolize honesty, sincere and kind. 
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/02711a2aa1a9485cbc45db39a607acc1.jpeg)
+
+> Image from [Sohu](https://www.sohu.com/a/259986899_784982)
+
 ## Sketch and Construct 
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Untitled_Artwork.2020-09-20%2018_58_47.gif)
