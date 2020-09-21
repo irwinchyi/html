@@ -6,8 +6,8 @@ home: true
 heroImage: /images/vrhero.png
 heroText: VR Process Blog
 tagline: Welcome
-actionText: null
-actionLink: null
+actionText: Check Syllabus
+actionLink: https://carla-gannis.gitbook.io/dm-gy-9103-virtual-reality/
 ---
 
 # Welcome to my VR Process Blog
@@ -19,3 +19,6 @@ Glad you are here! 😊 Also I'm glad my website is still working, it could be v
 ## Weekly Assignment
 
 [Week 1](Week1)
+
+[Week 2](Week2)
+
