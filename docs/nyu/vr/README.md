@@ -7,7 +7,7 @@ heroImage: /images/vrhero.png
 heroText: VR Process Blog
 tagline: Welcome
 actionText: Check Syllabus
-actionLink: https://carla-gannis.gitbook.io/dm-gy-9103-virtual-reality/
+actionLink: https://carla-gannis.gitbook.io/dm-gy-9103-vr-fa-2020-1/
 ---
 
 # Welcome to my VR Process Blog
