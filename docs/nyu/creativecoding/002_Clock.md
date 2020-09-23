@@ -87,3 +87,39 @@ function draw() {
 
 ## Reading Assignment
 
+**Interactivity**
+
+Crawford explained and separated the interaction into a cyclic process: listen, think, and speak. 
+
+I believe interaction itself; it's a form of communication. By examining it using communication models, I imaged it layers by layers to have a more translucent structure. 
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/27-Why-is-basic-communication-so-important..jpg)
+
+> Source of Image "Why is basic communication so important?" https://thecsopro.com/why-is-basic-communication-so-important/
+
+In his explanation, two actors in the communications model are the sender and receiver. Listen is the channel. Speak is the message and feedback. The thinking process is encoding and decoding. 
+
+I talked about the example that personal assistant like Google Assistant or Siri was very dumb. They can't comprehend the user's instruction. The channel of Noise, or Decoding process, has been compromised. It ends up compromised and uncredited the whole communication process. As a result, the degree of interactivity decreased. If any part of the chain in this process is totally broken, things aren't interactive. You can talk with a wise man with his story for a while, but no one has a long conversation with Siri. 
+
+If the user, which is the sender, give a vague, unclear message. It also damaged the process and lowered the intractability. The book isn't mention anything about the Noise in this chapter. How could we define Noise in human-computer interaction? Maybe the keyboard or microphone isn't functioning properly? One of the theories I came up with is the design behind it. A bad and extremely complex user interface could baffle the user. The user can't perform the activity in a timely manner. In the section of "User Interface" in this chapter, the author introduced the relations with interactivity design. It focuses on the bigger picture, not only the Noise (bad UX Design) itself but also the whole encoding, decoding process. 
+
+ I felt this communication model is extremely helpful to me in understanding the relations and the bigger picture. So let's use it to examine the questions. 
+
+**Book** might be medium degree of interactive. One example is S. By Dorst Novel. 
+
+![](https://www.texasobserver.org/wp-content/uploads/2014/02/S-Book.jpg)
+
+> Image Source: Untangling *S.*, Doug Dorst’s Novel within a Novel, Jen Reel https://www.texasobserver.org/untangling-s-doug-dorsts-novel-within-novel/
+
+This book is a combination of handwritten notes, postcards, photos. Although it is passive, it does give interactivity by all the preset notes, and sometimes users have to take note of the book. 
+
+**Plant**: Probably not. It does not think nor encoding and decoding messages. 
+
+**Puppy**: A big, yes. He listens to your audio cue, visually see your movement, and make responses. 
+
+**Sketches**: Might process a lower degree of intractability or no. After a certain amount of time, when you look at those sketches, it gives the info back. But it won't think, nor encoding and decoding anything. It's one way. Strictly speaking, no. 
+
+<br>
+
+Thank you for reading this. 
+
