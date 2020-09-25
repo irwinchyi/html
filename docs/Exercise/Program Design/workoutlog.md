@@ -1,5 +1,5 @@
 ---
-title: Workout Log: Week 3
+title: Workout Log Week 3
 lang: en-US
 sidebarDepth: 2
 ---
