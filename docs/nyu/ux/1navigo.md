@@ -1,5 +1,6 @@
 ---
 title: Navigo - Personal UX Project, NYU Summer
+permalink: /navigo
 ---
 
 
