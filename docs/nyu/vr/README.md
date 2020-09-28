@@ -22,3 +22,16 @@ Glad you are here! 😊 Also I'm glad my website is still working, it could be v
 
 [Week 2](Week2)
 
+[Week 3](Week3)
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
