@@ -24,3 +24,5 @@ Welcome
 
 [Week 2: Endangered Animal](Week2)
 
+[Week 3: 50 Renderings](Week3)
+
