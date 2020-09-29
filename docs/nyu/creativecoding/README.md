@@ -19,3 +19,5 @@ autoNext: 001_Selfie
 
 [Week 2: Clock](002_Clock)
 
+[Week 3: Dance](003_Dance)
+
