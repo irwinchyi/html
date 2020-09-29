@@ -148,3 +148,17 @@ Today, I pull out my old Samsonite luggage, traveling around the world. He saved
 "We can't cuohuo education." He agrees with my grandpa who raised me. 
 
 He cuohuo everything himself but never once cuohuo for me. 
+
+
+
+# In-class: Mask
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/dsjakldjlsajdla.png)
+
+Like a lot of people do, biking is both good cardio and fun. But currently, COVID makes it harder to approach because it's hard to wear a mask and a helmet to do cardio. Mask makes it hard to get enough oxygen when you are riding the bike. 
+
+Another issue I am facing when I ride a bike is the navigate through the road. Sometimes, I bike between school and home. During the first couple of ride, I get lost constantly. So I have to stop and pull my phone out, check the Google Map, then see where to go next. Sometimes, I will take my phone out and take a peek on the maps while still riding the bike. I shouldn't do it; it's pretty dangerous. 
+
+For the first question solution, there is a lot of wind flow into the helmet when I ride fast. So why not using that part of wind to filtrate the air? The rider could get fresh air effortlessly; with the same protection from N95, they could wear the helmet to public places without wear the helmet and mask at the same time. 
+
+Solving the second issue, I hope to add the plastic shield, which is a screen showing up the image port from the phone through Bluetooth. I tried the Hololens once, and it is very interesting. And I hope the same technology could be on the helmet. Maybe there could be a solar panel on the top of the helmet so it won't need any battery charge. 
