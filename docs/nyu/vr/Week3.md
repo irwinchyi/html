@@ -28,13 +28,11 @@ In the other class, we have read an article about hand gestures and feedback. Th
 
 The biggest limitation of the VR experience is the lack of feedback. Currently, everything is haptic feedback. It's limited, over-simplified, limited because of current technology. Ready Player One and so many other Sci-fi movies have shown us the possibility in the future. Maybe it will be ready in the next corner. 
 
-P.S.
+<br>
 
-If you are willing to give me some feedback about [this article about VR](https://irwinqi.com/?portfolio-item=centennial-mall-photogrammetry) I wrote, I would appreciate it very much. 
+<br>
 
-
-
-![](https://irwinqi.com/wp-content/uploads/2020/01/ID-04-2-791x1024.jpg)
+<br>
 
 Always appreciate you read my rambling stuff here. 
 
