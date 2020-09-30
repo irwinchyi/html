@@ -14,7 +14,7 @@ When I first saw the assignment requirement about the party, the first thing cam
 
 So I decided to do this Flappy Party Parrot for this assignment. 
 
-https://editor.p5js.org/irwinchyi/sketches/ZJiSqekFx
+[https://editor.p5js.org/irwinchyi/sketches/ZJiSqekFx](https://editor.p5js.org/irwinchyi/sketches/ZJiSqekFx)
 
 ## Reading
 
