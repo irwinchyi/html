@@ -4,6 +4,18 @@ lang: en-US
 sidebarDepth: 2
 ---
 
+## Flappy Party Parrot
+
+When I first saw the assignment requirement about the party, the first thing came to my mind is party parrot.
+
+ ![](https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif)![](https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif)
+
+> Gif from https://cultofthepartyparrot.com/  open-source Parrot
+
+So I decided to do this Flappy Party Parrot for this assignment. 
+
+https://editor.p5js.org/irwinchyi/sketches/ZJiSqekFx
+
 ## Reading
 
 I remember the first lesson of Communication 101 we learned "The medium is the message" by McLuhan. 
