@@ -4,6 +4,22 @@ lang: en-US
 sidebarDepth: 2
 ---
 
+## Sept 29 Leg Day, Recovery Focus 
+
+| Exercise                              | Sets and Rep         | Weight            | Volume |
+| ------------------------------------- | -------------------- | ----------------- | ------ |
+| Single Leg Rise / Sit-to-stand        | 2 groups, exhaustion | Bodyweight only   |        |
+| Box step-up                           | 2 groups, exhaustion | Bodyweight only   |        |
+| Single Leg Rise / Sit-to-stand        | 2 groups, exhaustion | Bodyweight only   |        |
+| Box step-up                           | 2 groups, exhaustion | Bodyweight only   |        |
+| Single Leg Romanian Deadlift. L       |                      |                   |        |
+| Single Leg Romanian Deadlift. R       | Total of 4 groups    | Bodyweight only   |        |
+| Machine Knee Extension. Single Leg. L | 12 / 12 / 12 / 12    | 40 / 40 / 40 / 40 | 1920   |
+| Machine Knee Extension. Single Leg. R | 18 / 18 / 16 / 14    | 15 / 15 / 15 / 15 | 990    |
+|                                       |                      | **Total Volume**  | 2910   |
+
+
+
 ## Sept 21
 
 | Exercise                | Sets and Rep      | Weight    | Volume   |

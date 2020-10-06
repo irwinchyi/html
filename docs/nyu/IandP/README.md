@@ -26,3 +26,5 @@ Welcome
 
 [Week 3: 50 Renderings](Week3)
 
+[Week 4: Translating Affordances](Week4)
+
