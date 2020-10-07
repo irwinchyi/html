@@ -21,3 +21,5 @@ autoNext: 001_Selfie
 
 [Week 3: Dance](003_Dance)
 
+[Week 4: Ball Game](004_Ball)
+
