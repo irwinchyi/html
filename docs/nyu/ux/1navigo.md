@@ -1,5 +1,5 @@
 ---
-title: Navigo - Personal UX Project, NYU Summer
+title: Navigo - UX Project
 permalink: /navigo
 ---
 
@@ -42,6 +42,20 @@ First, I want to get to know what TTS they're currently using. How much content,
 
 After that, I want to know how they find an optimized website for the screen reader. And when they find a new one. How do they share with another blind user in this community? 
 
+::: tip Detail Interview
+
+You can visit individual interview result at: 
+
+[Interview G](Interview2.md)
+
+[Interview A](3Interview-A.md)
+
+[Interview S](4Interview-S.md)
+
+:::
+
+
+
 ## Empathy Map
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.006.jpeg)
@@ -74,45 +88,56 @@ There is currently no direct competitor because it's like a new market and an in
 
 So before we continue, what is keyword launcher?
 
+It is pretty self-explanatory is a picture of it; you press a key, and you'll find a related result, and the app is going to launch right away.
+
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.011.jpeg)
+
+For design guidelines, the fundamental design guideline has always be considered throughout the whole process.
+
+There will be no cursor and mouse needed keyboard interaction only. I will have both high contract designs optimized for low vision users and minimal icon image use. Everything will be compatible with VoiceOver and JAWS. 
+
+## Demo
+
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.012.jpeg)
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.013.jpeg)
+
+Navigo is a bar for everything online. Packing all those features in one place seems huge and cumbersome, not really because everything runs automatically on the back end without users' intervention. 
+
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.014.jpeg)
+
+The product logic behind is when you paste a link, it will convert to a screen reader ready hassle-free page, we will copy and paste the image, and we'll do the OCR for you, and you can launch the website easily effortlessly with just single keystroke additional research results will be available to Google, and again to use PWA which means progressive web apps to be available throughout the whole platforms.
+
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.015.jpeg)
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.016.jpeg)
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.017.jpeg)
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.018.jpeg)
+
+The project logic behind it is when you paste a link, and it requests an accessible version of the website.
+
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.019.jpeg)
+
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.020.jpeg)
+
+So you can see, led by is the New York Times, even here is still blocking you, and you have two cents for reading the times you have to input your email address. Then the final step on the mobile app is going to disable CSS and JavaScript.
+
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.021.jpeg)
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.022.jpeg)
+
+We're going to measure success rate time on tasks, search results, and navigation destination for a behavioral KPI, and also we got to use customer satisfaction survey, usability survey, and online promoter measure attitudinal KPI. 
+
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.023.jpeg)
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.024.jpeg)
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.025.jpeg)
 
 
 
+## Prototype: Sketch Project
+
+[Sketch Cloud File](https://www.sketch.com/s/51de2f64-62e5-49ae-902b-c3fa63d38b93)
 
 
 
-
-
-
-
-
-
-
-
-
-## :new: Updates 9/1
-
-Please visit here for [Prototype](6NavigoPrototype)
-
-[Usability Test](6NavigoUT) is still updating, please check back in a few days. 
-
-
-
-## Sketch your Solution on paper
+## Paper Sketch
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Sketch%201.jpg) 
 
@@ -120,17 +145,9 @@ Please visit here for [Prototype](6NavigoPrototype)
 
 
 
-## High and Low Definition Sketch Project
-
-[Sketch Cloud File](https://www.sketch.com/s/51de2f64-62e5-49ae-902b-c3fa63d38b93)
-
-Please click link above to see latest update. 
 
 
-
-
-
-## Interview
+## Prepare for the Interview 
 
 #### Interview Goal
 
