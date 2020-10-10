@@ -3,19 +3,104 @@ title: Navigo - Personal UX Project, NYU Summer
 permalink: /navigo
 ---
 
-
-
 # Navigo ——  UX Project
 
-::: tip Project Updates 
 
-Updated Prototype Page down below
 
-Still working on conduct a usability test
+## Final Presentation
 
-Working on Sketch files
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.001.jpeg)
 
-:::
+I am going to share this question with you. 
+Have you thought about how many things on one webpage are irrelevant? 
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.002.jpeg)
+
+We can always skim through it for us, but for blind users, they have to use a screen reader to go in one line by line. 
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.003.jpeg)
+
+So for today's presentation, I got to break down four into four different faces research, defy, prototype, and benchmark.
+For Project Navigo, there are four research methods I use to collect insight interview direction storytelling. 
+
+## Research Method
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.004.jpeg)
+
+For Project Navigo, there are four research methods I use to collect insight: 
+
+- Interviews 
+- Directed Storytelling 
+- Video Ethnography 
+- Mental Model Mapping 
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.005.jpeg)
+
+I asked several questions that involve both qualitative and quantitative questions. 
+
+First, I want to get to know what TTS they're currently using. How much content, read out loud, is irrelevant, and how much time is wasted on that. 
+
+After that, I want to know how they find an optimized website for the screen reader. And when they find a new one. How do they share with another blind user in this community? 
+
+## Empathy Map
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.006.jpeg)
+
+So based on their answer, I generated this empathy map. My interview said, "there is no way to avoid them." 
+They often get stuck up on the pop-ups like: you have to subscribe to read this article or, you know, Flash content, which totally blocks the areas and they could not continue. 
+
+They have spent a lot of time looking for an alternative, and sometimes they have to give up. This can be really frustrating and stressful, and it could be sad. 
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.007.jpeg)
+
+For the insight, let's review three power questions.
+
+- How much time wasted on and how to avoid irrelevant content? 
+- How they find website optimized for screenreader? 
+- Where to share the resources found? 
+
+
+
+## Problem Statement
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.008.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.009.jpeg)
+
+There is currently no direct competitor because it's like a new market and an indirect competitor. There are different markets and target audiences. An indirect competitor likes reader mode on Safari or Chrome ad blocker and key keyword launchers.
+
+
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.010.jpeg)
+
+So before we continue, what is keyword launcher?
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.011.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.012.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.013.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.014.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.015.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.016.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.017.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.018.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.019.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.020.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.021.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.022.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.023.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.024.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Navigo.025.jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
