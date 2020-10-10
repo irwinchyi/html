@@ -8,7 +8,7 @@ sidebarDepth: 2
 
 ## Individual Project 
 
-[Navigo](1navigo)
+[Navigo](1navigo.md)
 
 
 
