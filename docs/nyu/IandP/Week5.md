@@ -18,7 +18,7 @@ After the random drawing process, I have those image cards:
 
 | Two cards from Concepts card                                 | Two cards from Image Cards                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20201011235153.png) | ![image-20201011235224959](/Users/wqi3/Library/Application Support/typora-user-images/image-20201011235224959.png) |
+| ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20201011235153.png) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/image-20201011235224959.png) |
 | <img src="https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20201011234941.png"/> | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20201011235055.png) |
 
 
@@ -61,6 +61,8 @@ In the center of Xi'an,  there is a building named Bell Tower. Around it, it's t
 While I see the keyword of "signpost," the first thing that came up to my mind is the signpost in Bell Tower underpass. The underpass itself is very confusing, and the signpost makes it worse. I spend 20 years growing up in that city as a native, and I got lost all the time. Here's an image of Bell Tower signpost. 
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/ca71a1cf528157ea97a550d6a93d07ea.jpg_r_720x480x95_0023418f.jpg)
+
+> Signpost captured at Bell Tower underpass, Retrieved from [http://travel.qunar.com/p-pl5970199](http://travel.qunar.com/p-pl5970199)
 
 And they named exit like
 
