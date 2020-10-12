@@ -96,7 +96,7 @@ I used Cinema 4D camera tracking to track the X,Y, and Z-axis. Then created the 
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/PSScreenshoot.JPG)
 
-This product - when the passenger is standing in the center, and under the glass - they could check the place they need to go very easily. I remembered every time I went to the Bell Tower underpass because it is underground, there is no GPS signal. I believe this product could bring people calmness in technology. .
+This product - when the passenger is standing in the center, and under the glass - they could check the place they need to go very easily. I remembered every time I went to the Bell Tower underpass because it is underground, there is no GPS signal. I believe this product could bring people calmness in technology.
 
 ## Future
 
