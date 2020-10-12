@@ -4,6 +4,8 @@ lang: en-US
 sidebarDepth: 2
 ---
 
+# Week 5 New Metaphors
+
 ## Final Result
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Final%20Result.jpg)
