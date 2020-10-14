@@ -51,7 +51,7 @@ Signpost is everywhere from the metro station to super mall's intersection. In N
 
 ### Quick background about Xi'an
 
-![](http://5b0988e595225.cdn.sohucs.com/images/20200330/93d056d8c07c478991e2dd55ec57aa4a.jpeg)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/93d056d8c07c478991e2dd55ec57aa4a.jpeg)
 
 > Image of city of Chang'an, Dang dynasty. From [Sohu](https://en.wikipedia.org/wiki/Tang_dynasty)
 
