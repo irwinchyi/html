@@ -24,3 +24,6 @@ autoNext: 001_Selfie
 [Week 4: Ball Game](004_Ball)
 
 [Week 5: UV and Mid Term Project](005_UXandMidTerm.md)
+
+[Week 6: Lib](006_Lib.md)
+
