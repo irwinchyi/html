@@ -1,5 +1,5 @@
 ---
-title: Week 5 UV and Midterm Project
+title: Assignment 5 UV and Midterm Project
 lang: en-US
 sidebarDepth: 2
 ---

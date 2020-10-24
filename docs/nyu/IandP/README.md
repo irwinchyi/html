@@ -29,3 +29,6 @@ Welcome
 [Week 4: Translating Affordances](Week4)
 
 [Week 5: New Metaphors](Week5)
+
+[Week 6: Photo Essay](Week6)
+
