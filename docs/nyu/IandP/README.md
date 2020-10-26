@@ -32,3 +32,4 @@ Welcome
 
 [Week 6: Photo Essay](Week6)
 
+[Week 7: Time Capsule Part 1](Week7)
