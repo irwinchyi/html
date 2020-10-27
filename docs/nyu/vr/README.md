@@ -28,6 +28,16 @@ Glad you are here! 😊 Also I'm glad my website is still working, it could be v
 
 [Week 7](Week7)
 
+
+
+## Macro Project
+
+[Phase01](https://docs.google.com/presentation/d/17CFUpu6sW9uBckM2XfPkPLnCSRnjYx0bWsEH-xSW5rM/edit#slide=id.p)
+
+[Phase 02](https://docs.google.com/document/d/1WOzkq9TmosCXYyS6U1ctHrOGnlyHpB_qzlmlDJr9bJs/edit)
+
+[Phase Alpha](https://docs.google.com/presentation/d/11l-hKfCAMtrK5W8XSIsD5o_2oReMPvOcaIgtgT-NcEk/edit)
+
 <br>
 
 <br>
