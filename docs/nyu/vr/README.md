@@ -26,6 +26,8 @@ Glad you are here! 😊 Also I'm glad my website is still working, it could be v
 
 [Week 4 and 5](Week4)
 
+[Week 7](Week7)
+
 <br>
 
 <br>
