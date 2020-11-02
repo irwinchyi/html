@@ -33,3 +33,5 @@ Welcome
 [Week 6: Photo Essay](Week6)
 
 [Week 7: Time Capsule Part 1](Week7)
+
+[Week 8: Time Capsule Part 2 - The Pentagon Ball Capsule](Week8)
