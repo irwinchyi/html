@@ -66,6 +66,10 @@ I design my paper cut-out in the photoshop then print it out. I left a rectangul
 I didn't write stuff on it yet because this is too small for me, so it is a prototype. Also, I think it looks great itself, and I put somewhere in my house as decoration. 
 I will stop at Hobby Lobby to buy some bigger PVC board. 
 
+It won't fit everything in my time capsule but most of things. 
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/IMG_0093.jpg)
+
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/IMG_0092.jpg)
 
 ## (And it is a cool hat)
