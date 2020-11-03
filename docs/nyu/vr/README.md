@@ -38,6 +38,16 @@ Glad you are here! 😊 Also I'm glad my website is still working, it could be v
 
 [Phase Alpha](https://docs.google.com/presentation/d/11l-hKfCAMtrK5W8XSIsD5o_2oReMPvOcaIgtgT-NcEk/edit)
 
+[Phase Alpha Audience Survey Analysis](https://docs.google.com/document/d/1WAL0NukMXh6EvD2dt6_bmP3-SebsmcOuuCmZZ9oHYa8/edit)
+
+
+
+## Macro Project Log
+
+11/01 Fixing the breaking collider box for most object in the scene
+
+10/30 Ben added script for jumping and moving around to control avatar. 
+
 <br>
 
 <br>
