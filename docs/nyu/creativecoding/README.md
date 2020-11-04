@@ -28,3 +28,5 @@ autoNext: 001_Selfie
 [Week 6: Lib](006_Lib.md)
 
 [Week 7: Mid Term Project: Push](007_Mid.md)
+
+[Week 8: Coffee and Shake Switch](008_Switch.md)
