@@ -22,7 +22,7 @@ Hello there, thank you so much for your consideration.
 
 During the interview, I have been asked about my design and video production process. So I created this quick document to show you my process. 
 
-# Step 1: Gather Information 
+## Step 1: Gather Information 
 
 How to meal plan: 6 easy steps
 
@@ -33,25 +33,25 @@ How to meal plan: 6 easy steps
 5. Meal Prep 
 6. Cook
 
-# Step 2: Create Camera Card in Illustrator 
+## Step 2: Create Camera Card in Illustrator 
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20201106114748.png)
 
 
 
-# Step 3: Create Individual Elements for Animation
+## Step 3: Create Individual Elements for Animation
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20201106114833.png)
 
 
 
-# Step 4: Animation in After Effects
+## Step 4: Animation in After Effects
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20201106114921.png)
 
 
 
-# Step 5: Pick and Secure Copyrighted Music
+## Step 5: Pick and Secure Copyrighted Music
 
 Used Personal Music resources subscription from Musicbed. 
 
@@ -70,6 +70,7 @@ Here's some of motion examples during the time I was working for BL:
 
 <iframe src="https://player.vimeo.com/video/390118271" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-You can also visit my portfolio from the button on the top.
+You can also [visit my portfolio](https://irwinqi.com) from the button on the top right corner.
 
 Thanks 😊
+
