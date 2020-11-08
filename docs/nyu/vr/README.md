@@ -28,6 +28,8 @@ Glad you are here! 😊 Also I'm glad my website is still working, it could be v
 
 [Week 7](Week7)
 
+[Week 9](Week9)
+
 
 
 ## Macro Project
@@ -43,6 +45,10 @@ Glad you are here! 😊 Also I'm glad my website is still working, it could be v
 
 
 ## Macro Project Log
+
+11/08 Tested on devices, everything works smoothly. Issue: need more lighting on the scene especially in door
+
+11/05 Continue the scene building, separated to two difference scene for quicker loading speed on Quest platform, outdoor and indoor. 
 
 11/01 Fixing the breaking collider box for most object in the scene
 
