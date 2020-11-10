@@ -6,15 +6,17 @@ sidebarDepth: 2
 
 # Week 9 Time Capsule Part III - Wh3r3 is my shrink? 
 
-For this assignment, I wanted to create a funny, goofy, and sarcastic comic. Then put together as animation. 
+For this assignment, I wanted to create a funny, goofy, and sarcastic comic. Then put together as the animation. Here's the result first. 
 
 ## Videos
 
 <iframe src="https://player.vimeo.com/video/477306368" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+
+
 <iframe src="https://player.vimeo.com/video/477422229" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-## Script
+## Script and Audio
 
 **Background**: Downloading Center 
 
@@ -29,6 +31,32 @@ For this assignment, I wanted to create a funny, goofy, and sarcastic comic. The
 **Professor**: Learn is the process they got new knowledge and store in their brain, they are dumb, and they are forgettable, you should have this. This will tell you everything about our ancestors. Ok, this kids should not see this.  
 
 **Kid A**: Ok, I'm ready to upload. Holy Crap. 
+
+
+
+**Kid A**: Ahh, I don't like my time capsule. It looks like s** ball. 
+
+**Kid B**: Ahh, I don't give a *, Look at new iPhone 55, I am richer than you. 
+
+
+
+**Kid A**: Let's open this thing
+
+**Kid B**: Emm Hmm Emm Hmm
+
+**Kid A**: A Dumbbell, no wonder why they were so dumb 
+
+**Kid A**: And who is this guy named Irwin, OK, maybe he's a dog
+
+**Kid B**: Sounds like loser to me. 
+
+**Kid A**: Essentials of strength training and conditioning. 
+
+**Kid B**: What's this? 
+
+**Kid A**: It seems like how accent human get muscle. 
+
+**Kid B**: Do you want get some muscle?  
 
 
 
@@ -72,3 +100,4 @@ Today, the blue pill in the comic exists, and that's the steroid. Some people we
 
 What if: in the future, the muscle will be treated as low-level because they need to do physical activity, while the upper level could just use their brain?
 
+Another issue I would love to discuss is, things hard to access in the past might change over the years. In the last class, we talked about before social media and the ways of entertaining is so lacking, we often feel very joyful with new ways to entertain. Today, we have so many ways, and it's overwhelming, so we won't feel as happy as before. Maybe in the future, everyone will get a super-smart brain, good looking face, six ads, and strong physics through generic modification; what will we flighting for? 
