@@ -35,3 +35,6 @@ Welcome
 [Week 7: Time Capsule Part 1](Week7)
 
 [Week 8: Time Capsule Part 2 - The Pentagon Ball Capsule](Week8)
+
+[Week 9: Time Capsule Part 3 - Comic Wh3r3 is my shrink?](Week9)
+
