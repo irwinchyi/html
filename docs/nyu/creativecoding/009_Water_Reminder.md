@@ -109,3 +109,31 @@ I hope to create a system by pushing a button, and it will measure the weight of
 
 This is something I will dig into this week and future. 
 
+I also write a little bit of pseudocode about how I might approach this: 
+
+```pseudocode
+const int LEDPinA = 2;
+const int switchPinA = 3;
+const int LEDPinB = 4;
+const int switchPinB = 5;
+const int weightscalePin = 7;
+const unsigned long = 0; 
+const weightscalpin = weightresult;
+const unsigned long weightresultbefore;
+const unsigned long weightresultafter;
+if (weightresult ==! 0) {
+	weightresult = weightresultbefore
+}
+if (weightresults doesn't change within 0.5s) {
+	weightresult = weightresultbefore;
+}
+if (weightresults == 0) {
+	reset the scale
+	if (weightresults > weightresultbefore) {
+	weightresult = weightresultafter;
+}
+const single_waterintake = weightresultafter - weightresultbefore;
+const total_waterintake = 0;
+total_waterintake = signle_waterintake + total_waterintake;
+```
+
