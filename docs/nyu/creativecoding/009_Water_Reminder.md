@@ -26,7 +26,7 @@ Here's the function of my little water reminder:
 
 When you press the button, the blue LED will be flashing several times, indicates 
 
-**"Yay! You just drunk some water! Good for you!" **
+**Yay! You just drunk some water! Good for you!**
 
 Then the timer will start to count, I am planning to set the count as per hour. But in order to test, I shorted the amount to **5 seconds**. 
 
