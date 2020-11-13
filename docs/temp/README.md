@@ -6,13 +6,23 @@ sidebarDepth: 2
 
 ::: tip Temporary Page 
 
-This page will be deleted next week. For WW Social Media Intern. 
+This page will be deleted soon. 
 
 :::
 
+## Nice to meet you
+
+**Quick Links**
+
+[Omaha Public Power District](https://baileylauerman.com/wp-content/uploads/2019/11/OPPD.mp4)
+
+[Phillips 66 Motion Example](https://irwinqi.com/?portfolio-item=phillips-66-lubricants)
+
+[Nebraska Huskers Instagram Account](https://www.instagram.com/huskers/?hl=en)
 
 
-# Final Result
+
+## Video Assignment Final Result
 
 <iframe src="https://player.vimeo.com/video/476387068" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
