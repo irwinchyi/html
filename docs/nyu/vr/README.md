@@ -30,6 +30,8 @@ Glad you are here! 😊 Also I'm glad my website is still working, it could be v
 
 [Week 9](Week9)
 
+[Week 10](Week10)
+
 
 
 ## Macro Project
