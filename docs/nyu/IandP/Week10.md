@@ -1,10 +1,10 @@
 ---
-title: Week 9 Time Capsule Part 3
+title: Week 10 Time Capsule Part 3
 lang: en-US
 sidebarDepth: 2
 ---
 
-# Week 9 Time Capsule Part III - Wh3r3 is my shrink? 
+# Week 10 Time Capsule Part III - Wh3r3 is my shrink? 
 
 For this assignment, I wanted to create a funny, goofy, and sarcastic comic. Then put together as the animation. Here's the result first. 
 
