@@ -32,3 +32,6 @@ autoNext: 001_Selfie
 [Week 8: Coffee and Shake Switch](008_Switch.md)
 
 [Week 9: Arduino Water Reminder](009_Water_Reminder.md)
+
+[Week 10: CPR Match](010_CPR.md)
+
