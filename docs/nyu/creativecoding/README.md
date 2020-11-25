@@ -35,3 +35,4 @@ autoNext: 001_Selfie
 
 [Week 10: CPR Match](010_CPR.md)
 
+[Week 11: Physical Button with p5](011_Button_Party.md)
