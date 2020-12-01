@@ -52,11 +52,11 @@ Since this week, my job is more design heavy and design for the individual card 
 
 ## Channels Card
 
-|                                                              |                                                              |                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Play%20Card%20Copy%208.png) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Play%20Card%20Copy%207.png) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Play%20Card%20Copy%206.png) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Play%20Card.png) |
-| ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Black%20Heart%205.png) |                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Black%20Heart%205.png) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Play%20Card%20Copy%202.png) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Play%20Card%20Copy%203.png) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/BH%208%20Broadcasting.png) |
+| ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Play%20Card%20Copy%205.png) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Play%20Card%20Copy%209.png) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Play%20Card%20Copy%2010.png) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Play%20Card%20Copy%2011.png) |
+| ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Play%20Card%20Copy%2012.png) |                                                              |                                                              |                                                              |
 
 
 
