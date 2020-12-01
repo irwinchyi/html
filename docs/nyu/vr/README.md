@@ -34,6 +34,8 @@ Glad you are here! 😊 Also I'm glad my website is still working, it could be v
 
 [Week 11](Weeka)
 
+[Week 12](Weekb)
+
 ## Macro Project
 
 [Phase01](https://docs.google.com/presentation/d/17CFUpu6sW9uBckM2XfPkPLnCSRnjYx0bWsEH-xSW5rM/edit#slide=id.p)
