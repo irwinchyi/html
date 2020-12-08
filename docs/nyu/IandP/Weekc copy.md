@@ -1,5 +1,5 @@
 ---
-title: Week 12 Design Sprint
+title: Week 13 Final Project
 lang: en-US
 sidebarDepth: 2
 ---
