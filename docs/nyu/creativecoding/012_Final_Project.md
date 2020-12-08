@@ -6,6 +6,24 @@ sidebarDepth: 2
 
 # Final Project
 
+## Log
+
+Tare function used to be part of p5.js calculation process, now tare will be part of Arduino code, will tare when serial write single letter t
+
+
+
+## Stage One
+
+
+
+## Water Intake Formula
+
+Body Weight * 2/3 = water intake (ounces)
+
+12 ounces of water per 30 min exercise. 
+
+
+
 ## Hardware List
 
 All hardware brought from Amazon. 
@@ -45,5 +63,5 @@ $$
 Changing the equation back so 
 $$
 y + 83167 = 385.77x;
-(y + 83167)/385.77 = x; 
+(y + 83167)/385.77 = x;
 $$
