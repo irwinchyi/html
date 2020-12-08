@@ -10,7 +10,9 @@ sidebarDepth: 2
 
 ## Presentation
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTH3ctSuxjNkcuMer3yOkZFavQT0Mr1To9zOv6Zqvy_cZiEHaXhwUSLBMv28X2FA2-i4_iLJ2bRoi3x/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTH3ctSuxjNkcuMer3yOkZFavQT0Mr1To9zOv6Zqvy_cZiEHaXhwUSLBMv28X2FA2-i4_iLJ2bRoi3x/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 
 ## Pre-Research
 
