@@ -1,5 +1,5 @@
 ---
-title: Week 3
+title: Week 3 VR Play
 lang: en-US
 sidebarDepth: 2
 ---

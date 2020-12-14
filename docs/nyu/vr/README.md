@@ -16,29 +16,45 @@ Hello!
 
 Glad you are here! 😊 Also I'm glad my website is still working, it could be very buggy when I try something new on the backend. 
 
+I renamed everything so it's easier to check for my finals, everything should be here~ Please let me know if I missed anything, thanks!
+
 ## Weekly Assignment
 
-[Week 1](Week1)
+[Week 1: Virtual Object or Experience](Week1)
 
-[Week 2](Week2)
+[Week 2: Field Study and Daydream Study](Week2)
 
-[Week 3](Week3)
+[Week 3: VR Play Analysis](Week3)
 
-[Week 4 and 5](Week4)
+[Week 4 and 5: Group Project, Whiskers in the Dark](Week4)
 
-[Week 7](Week7)
+[Week 7: Excited about in School](Week7)
 
-[Week 9](Week9)
+Week 8: Macro Project Phase is down below
 
-[Week 10](Week10)
+[Week 9: Guest Regine](Week9)
 
-[Week 11](Weeka)
+[Week 10: Guest Leah](Week10)
 
-[Week 12](Weekb)
+[Week 11: Guest Neil](Weeka)
+
+[Week 12: Reading, Future Presence](Weekb)
+
+[Week13: Guest Zander](Weekc)
+
+
 
 ## Macro Project
 
-[Phase01](https://docs.google.com/presentation/d/17CFUpu6sW9uBckM2XfPkPLnCSRnjYx0bWsEH-xSW5rM/edit#slide=id.p)
+[Final Refection](Weekd)
+
+### Phases
+
+[Phase Beta / Final Presentation Deck: Calicollector](https://docs.google.com/presentation/d/1_WKm51ehT3qt9W6HmpxpKb8OPhp3UV9QRFxRbhmNfPw/edit?usp=sharing)
+
+
+
+[Phase 01](https://docs.google.com/presentation/d/17CFUpu6sW9uBckM2XfPkPLnCSRnjYx0bWsEH-xSW5rM/edit#slide=id.p)
 
 [Phase 02](https://docs.google.com/document/d/1WOzkq9TmosCXYyS6U1ctHrOGnlyHpB_qzlmlDJr9bJs/edit)
 
