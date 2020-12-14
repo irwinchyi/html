@@ -66,11 +66,31 @@ Week 8: Macro Project Phase is down below
 
 ## Macro Project Log
 
+12/12 Assets Pack for Final Deliverables 
+
+12/07 Explosion Effects, fireworks, colliders walls, team logo as victory, map script 
+
+12/06 Scene Build, hands, game almost compete 
+
+12/05 Aura Sound, Outdoor modification 
+
+12/04 Indoor and outdoor modification 
+
+12/03 Paws 
+
+12/01 Menu
+
+11/29 Audio, BGM, Scene Teleportation 
+
+11/29 Onboarding
+
+11/23 Text, Indoor 
+
 11/08 Tested on devices, everything works smoothly. Issue: need more lighting on the scene especially in door
 
 11/05 Continue the scene building, separated to two difference scene for quicker loading speed on Quest platform, outdoor and indoor. 
 
-11/01 Fixing the breaking collider box for most object in the scene
+11/01 Fixing the breaking collider box for most object in the scene, Jump script
 
 10/30 Ben added script for jumping and moving around to control avatar. 
 
