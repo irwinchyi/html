@@ -28,6 +28,8 @@ I renamed everything so it's easier to check for my finals, everything should be
 
 [Week 4 and 5: Group Project, Whiskers in the Dark](Week4)
 
+Week 6: Respond to classmates reading/viewing selections, did on Slack
+
 [Week 7: Excited about in School](Week7)
 
 Week 8: Macro Project Phase is down below
@@ -40,9 +42,9 @@ Week 8: Macro Project Phase is down below
 
 [Week 12: Reading, Future Presence](Weekb)
 
-[Week13: Guest Zander](Weekc)
+[Week 13: Guest Zander](Weekc)
 
-
+[Week 14: Final Refection](Weekd)
 
 ## Macro Project
 
