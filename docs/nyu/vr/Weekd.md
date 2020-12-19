@@ -6,11 +6,17 @@ sidebarDepth: 2
 
 # Final Refection
 
-We are extremely proud of the final project as a real, playable game. But it's time to go back and see which part we did wrong and how we could improve the future. 
+We are very proud of the final project as a real, playable game. But it's time to go back and see which part we did wrong and how we could improve the future. 
 
 This article might be packed a lot of stuff together,  so I am going to break it down into little small topics so it's easier to read. 
 
 Also, I would love to document the hardship and the choice we made together throughout the journey. In the last part of this reflection, I could talk about what I learned from team collaboration. 
+
+## Result Gameplay
+
+<div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/492698825?portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
 
 ## Background
 
