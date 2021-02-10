@@ -47,7 +47,9 @@ This portfolio / mini interactive website is from creative director Bruno Simon.
 
 
 
-Artcles:
+## Articles and Project Websites
+
+Motion
 
 [Motion Graphic Design: Applied History and Anesthetics](https://books.google.com/books?hl=en&lr=&id=LM2_ISpInMwC&oi=fnd&pg=PR1&dq=motion+design&ots=_QqsRrW_cD&sig=iV5b4BJiWL7lU9joq88dRLiZi5k#v=onepage&q=motion%20design&f=false)
 
@@ -57,7 +59,7 @@ Artcles:
 
 [APPLYING DESIGN PRINCIPLES TO MOTION GRAPHICS](https://blog.kadenze.com/creative-technology/applying-design-principles-to-motion-graphics/)
 
-[Can Mobile Apps Motivate Fitness Tracking? A Study of Technological Affordances and Workout Behaviors](https://www.tandfonline.com/doi/10.1080/10410236.2018.1536961)
+[Motion design : moving graphics for television, music video, cinema, and digital interfaces](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph001178349&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local Search Engine&tab=all&query=any,contains,Motion Graphics Design&sortby=rank&mode=basic)
 
 
 
@@ -68,6 +70,14 @@ Fitness and Realtime Feedback
 [Peloton Workout](https://www.onepeloton.com/)
 
 [Keep Workout App](https://www.gotokeep.com/)
+
+[How Peloton Plans to Keep Growing After the Pandemic Ends](https://www.wsj.com/articles/how-peloton-plans-to-keep-growing-after-the-pandemic-ends-11603476000)
+
+[How an exercise bike grew into a $4.15 billion company with a cult...](https://www.cnbc.com/2019/02/12/how-peloton-exercise-bikes-and-streaming-gained-a-cult-following.html)
+
+[Can Mobile Apps Motivate Fitness Tracking? A Study of Technological Affordances and Workout Behaviors](https://www.tandfonline.com/doi/10.1080/10410236.2018.1536961)
+
+
 
 
 
