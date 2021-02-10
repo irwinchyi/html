@@ -43,8 +43,9 @@ module.exports = {
                 {text: 'Human Anatomy', link: '/Exercise/Anatomy/'},
             ]  
         },
-        { text:'2020 Fall',
+        { text:'2021 Spring',
             items: [
+                {text: 'Pre-Thesis', link:'/nyu/prethesis/'},
                 {text: 'Creative Coding', link: '/nyu/creativecoding/'},
                 {text: 'VR', link:'/nyu/vr/'},
                 {text: 'UX', link:'/nyu/ux/'},
