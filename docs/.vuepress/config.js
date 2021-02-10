@@ -43,7 +43,7 @@ module.exports = {
                 {text: 'Human Anatomy', link: '/Exercise/Anatomy/'},
             ]  
         },
-        { text:'2021 Spring',
+        { text:'Learn',
             items: [
                 {text: '2021 Spring', items:[
                     {text: 'Pre-Thesis', link: '/nyu/prethesis/'},
