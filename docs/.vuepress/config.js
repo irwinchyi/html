@@ -45,11 +45,15 @@ module.exports = {
         },
         { text:'2021 Spring',
             items: [
-                {text: 'Pre-Thesis', link:'/nyu/prethesis/'},
-                {text: 'Creative Coding', link: '/nyu/creativecoding/'},
-                {text: 'VR', link:'/nyu/vr/'},
-                {text: 'UX', link:'/nyu/ux/'},
-                {text: 'I&P', link:'/nyu/IandP/'}
+                {text: '2021 Spring', items:[
+                    {text: 'Pre-Thesis', link: '/nyu/prethesis/'},
+                ]},
+                {text: '2020 Fall', items:[
+                    {text: 'Creative Coding', link: '/nyu/creativecoding/'},
+                    {text: 'VR', link:'/nyu/vr/'},
+                    {text: 'UX', link:'/nyu/ux/'},
+                    {text: 'I&P', link:'/nyu/IandP/'}
+                ]},
             ] 
         },
             { text: 'Portfolio', link: 'https://irwinqi.com'},
