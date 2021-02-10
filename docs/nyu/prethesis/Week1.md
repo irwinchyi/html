@@ -95,13 +95,15 @@ All project mentioned above is within recent 10 years.
 
 ## Project in 10 years before
 
+[Design Through a Decade: How Modern Graphic Design Has Changed in the Last 10 Years](https://www.poweronemedia.com/design-through-a-decade-how-modern-graphic-design-has-changed-in-the-last-10-years/)
 
+[History about Computer Animation](https://en.wikipedia.org/wiki/Timeline_of_computer_animation_in_film_and_television)
 
 
 
 ## Questions
 
-About Fitness
+**About Fitness**
 
 Do you use any App to track your workout goal? 
 
