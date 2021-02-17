@@ -6,15 +6,17 @@ sidebarDepth: 2
 
 # Designer Path
 
-For my research / final project, I wish to create an app/website could help designer find their path in their career advance journey, there is several signaficance why I think it is important and this topic is interesting to me. Before that, I would love to share some story from me and my friends about their journey. 
+For my research / final project, I wish to create an app/website could help designer find their path in their career advance journey, there is significant why I think it is important and this topic is interesting to me. Before that, I would love to share some stories from my friends and me about their journey. 
 
-One of my friend, A, she was major in a compeletely irrelevant major compare to the any kind of design, but she really enjoy the look of great user interface and UX design. So she switch to her major to design. At begining phase of her journey, she feel really lost because she don't know what to do. She knows a little bit about designer, but she couldn't distinguish the UI designer / UX designer / Product Designer, and she wasn't sure about the path she might take. 
+One of my friends, A, was major in a completely irrelevant major compared to any kind of design, but she really enjoyed the look of great user interface and UX design. So she switches to her major to design. At the beginning phase of her journey, she feels really lost because she doesn't know what to do. She knows a little bit about designers, but she couldn't distinguish the UI designer / UX designer / Product Designer, and she wasn't sure about the path she might take. 
 
-Secondly, once on the class, everyone already knows Sketch / Figma. Since she came from different major, she have no idea about those tools and feel lost. She was wondering there she could find some online resources allows her to learn more about this industry. 
+Secondly, once in the class, everyone already knows Sketch / Figma. Since she came from a different major, she has no idea about those tools and feels lost. She was wondering where she could find some online resources that allow her to learn more about this industry. 
 
-For most compelete beginners in this area, they might be find them really hard to catch up with the speed. While everybody else is moving on quickly, they might feel left behind and don't where to start. 
+For most complete beginners in this area, they might find them really hard to catch up with speed. While everybody else is moving on quickly, they might feel left behind and don't where to start. 
 
-I hope to create an individualized path for anyone like her, who feel lost when they new to this filed. 
+I hope to create an individualized path for anyone like her who feels lost when they new to this field. 
+
+
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Designer%20Path.png)
 
