@@ -56,3 +56,23 @@ I hope to create an individualized path for anyone like her, who feel lost when 
 
 [Help Us Rethink Design Education](https://www.futureofdesigneducation.org)
 
+
+
+## Research Questions
+
+### Description
+
+#### What is your research question?
+
+Is there a better way to fill the gap between the requirement from real-word experience and student learn from school? 
+
+#### Intentions
+
+Some of importance has been discussed in previous chapter, but for project, it could benefit many future designers like me might find hard time to catch up with the job requirement and hit a plateau. 
+
+#### Goals
+
+- Help designers find good pathway in their career life 
+- Fill the gap between work experience and educational experience 
+- Provide additional resources for further education 
+
