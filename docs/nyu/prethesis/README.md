@@ -22,7 +22,7 @@ Hello, welcome to my pre-thesis project: Designer Path.
 
 [Week 5: Thoughts from 1 on 1](Week5.md)
 
-[Week 6: Mid-Term Presentation](Week 6.md)
+[Week 6: Mid-Term Presentation](Week6.md)
 
 [Week 7: Thoughts about feedback I received](Week7.md)
 
