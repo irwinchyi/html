@@ -1,42 +1,46 @@
 ---
-title: Week 8 Process Blog
+title: Week 8 Building Community Prototype 
 lang: en-US
 sidebarDepth: 2
 ---
 
-# Week 8 Process Blog
+# Week 8 
 
-## Refined Storyline
-
-Owen is a senior student major in Communication Studies who is really interested in UX design and research. 
-
-He picked his minor in Graphic Design so he learned some basic color theory and Photoshop through the classes. During his past three years of undergraduate studies, he rarely learned anything about UX design because his curriculum doesn’t have those, nor had any internship related to this topic. Now he is looking for an internship for 2021 summer, he noticed a lot of job description requires a certain levels of familiarity of UX design and UX design software. Since he doesn’t have any experience, he found himself very passive in the current job market, and he also wish to know people with UX design experience to learn from them. 
-He found this website called designer path could help him be more prepared to be a UX designer. The website provides several different career paths for Owen to pick from, also provides overlap between the different paths. He wishes to be a UX designer but also hopes to learn some Motion Graphic Design in UX work. He picked the UX designer track on the website and selected Motion Design as an elective track. 
-
-During his undergraduate study, he already took several design classes like color theory. Using a website build-in function called full out, first he uploaded his transcript to the website. The website recognized it automatically and rolled out all classes related to the media theories because he already took it. Some of the class he took for his minor Graphic Design has been applied to the learning journey. The website recommended several class like color theory and Introduction to Sketch and Figma. After the first trial class, he could pick the like or dislike button. If he picked dislike, the website would be recommended other classes in this category but taught by a different lecturer. He added a few classes he is interested in, like Unity and 3D design, which is not part of the career path he chose as an elective. After finish the whole track has a participation class with NYU, he received a transcript from NYU with As. He transfers a couple of college credits back to his University as electives. 
-
-He also use the community function to ask people who are in the industry about feedback on his work. He received many useful feedback and also about how to enhance his career. A couple month later, he used his UX prototype found his first internship at a local technology company. 
+This week, I finished part of my **community** prototype. I was looking for the brand as an example to feature the basic rule of the weekly challenge. I picked MasterCard, then switch to **Amex** because there is more content create regarding those brands. 
 
 
 
-## How do we measure success?
+- One brand each week 
+- Incentives, If the brand is MasterCard, the incentives could be Gift Cards
+- Each designer could pick their category and participate, and it does not limit the type of content that will be created. 
+- An illustrator could draw a poster when advertising students could form the next successful Ad Campaign for them. 
+- Everything could participate while everyone will be the judge 
+- Each individual user could click, Up and Down. The down will not be calculated, but up will be count as the final score 
+- The highest score will be the winner. 
 
-For most websites, it could calculate by traffics and how many people stay after a certain amount of time. Those quantities measurements could tell if this website is a good business model or not based on actual numbers that could be count. 
 
-On the other hand, I like more qualitative measurements like a survey or direct interview with the user. This method could allow me to understand the logistic behind the user psychology and find more points to improve in the future. 
 
-### Interview Question
+Also, I wish to add another function called Designer Path Pal. This tool is used to solve a unique problem that I and all other online learners might face all the time. When I take an online tutorial on YouTube, it's impossible to remember all the steps and do it later, so I often find myself following the tutorial while building the content on my personal computer. 
 
-- Do you think this website is beneficial in your career path? 
-- Would you recommend this website to your classmate, peers or friends? 
-- Do you found useful skill you wish to learn in this website? 
+If I don't have a dual monitor setup, I will have to switch back and forth, pause, and resume the content while participate by myself. I found this very annoying, and the spilled screen is usually a bad option because the software interface has been packed with all the different buttons you have to press. Designer Path Pal will be a plugin that you could install for most software like After Effects, Photoshop; when the content creator builds the tutorial and use the same plugin, it will record every step along the way so you could follow it inside the software like After Effects. 
 
-I wish to use those specific interview to measure the outcome of user. 
+Or, instead of recorded video, the lecture record the mouse click and movement so you could replay it on your computer. 
 
-### Outcome Goals
+I did some research and found Adobe has its own learning solution called Adobe Captive, and you can design the content inside the software. But they don't have those kinds of software or plugin for their own software like Photoshop or After Effects. 
 
-- User learned from the classes 
-- User advanced its careers 
-- User found class helpful
+I hope by building this type of plugin and software, users could follow the problem and step-by-step tutorial easier, compared to right now that they have to switch back and forth a million times. 
 
-After all those survey, we could ask user what is missing in the process. We could also visit other website and compare a rating system on the scale from 1 to 10. This method could find out which platform user is more preferred and modify our platform along the way. 
+
+
+## Add more illustration
+
+Also, according to my friend who take a look of my design, he added a comment that I should add some illustration on my project. Here's some I found that I might use them. 
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20210510231951.png)
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20210510232028.png)
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20210510232041.png) 
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20210510232100.png)
+

@@ -6,6 +6,10 @@ sidebarDepth: 2
 
 # Week 6 Presentation
 
+Presentation is [here](https://docs.google.com/presentation/d/1xH8H87duCkhVfi4sMKtrlwIvogzTgpepaIy_kfN6_yA/edit?usp=sharing)
+
+
+
 **What is designer path?** 
 
 Designer path is an online learning platform specifically designed for designers who need learn more to advance their careers. 

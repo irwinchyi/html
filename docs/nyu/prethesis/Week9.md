@@ -1,35 +1,44 @@
 ---
-title: Week 9
+title: Week 8 Process Blog
 lang: en-US
 sidebarDepth: 2
 ---
 
-# Week 9
+# Week 9 Process Blog
 
-This week, I continue my research with my usability test. To do a better usability test, I created a list of tasks and a couple of questions to ask the user. I also generate a map of the website to help me better navigate the design. For the final presentation, I have been giving the pieces of advice that I should create one clear timeline for one career path to let the viewer see how it looks like, so I created a user path as motion graphic designers and class it needs to take. 
 
-![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Designer%20Path3.png)
 
-For my usability test, I decided to ask two of my friends to complete the usability test. First, they have been giving question like 
+## Refined Storyline
 
-- What do you think about the overall design of the website? 
-- Do you think it easy to find all the functions you want on the website? 
+Owen is a senior student major in Communication Studies who is really interested in UX design and research. 
 
-Later, I asked some specific task like: 
+He picked his minor in Graphic Design so he learned some basic color theory and Photoshop through the classes. During his past three years of undergraduate studies, he rarely learned anything about UX design because his curriculum doesn’t have those, nor had any internship related to this topic. Now he is looking for an internship for 2021 summer, he noticed a lot of job description requires a certain levels of familiarity of UX design and UX design software. Since he doesn’t have any experience, he found himself very passive in the current job market, and he also wish to know people with UX design experience to learn from them. 
+He found this website called designer path could help him be more prepared to be a UX designer. The website provides several different career paths for Owen to pick from, also provides overlap between the different paths. He wishes to be a UX designer but also hopes to learn some Motion Graphic Design in UX work. He picked the UX designer track on the website and selected Motion Design as an elective track. 
 
-- Could you find the task for becoming a web developer? 
-- Could you find the path for becoming a motion graphic designer? 
-- What kind of class do you need to take to become a motion graphic designer? 
+During his undergraduate study, he already took several design classes like color theory. Using a website build-in function called full out, first he uploaded his transcript to the website. The website recognized it automatically and rolled out all classes related to the media theories because he already took it. Some of the class he took for his minor Graphic Design has been applied to the learning journey. The website recommended several class like color theory and Introduction to Sketch and Figma. After the first trial class, he could pick the like or dislike button. If he picked dislike, the website would be recommended other classes in this category but taught by a different lecturer. He added a few classes he is interested in, like Unity and 3D design, which is not part of the career path he chose as an elective. After finish the whole track has a participation class with NYU, he received a transcript from NYU with As. He transfers a couple of college credits back to his University as electives. 
 
-This kind of question could make sure the user understands the structure of the website easily, and they won't be confused by the website. 
+He also use the community function to ask people who are in the industry about feedback on his work. He received many useful feedback and also about how to enhance his career. A couple month later, he used his UX prototype found his first internship at a local technology company. 
 
-Also, there will be some general questions like? 
 
-- Will, you recommended this website to other people? 
-- Where do you think it could be improved for both design and functional purposes? 
 
-Currently, I am finishing my website. Once it's done, I am going to send it over to my friends and conduct this usability test. 
+## How do we measure success?
 
-I am very excited about the final presentation for this project I work so long. Also, I wish to write a document to explain the reason behind the website and give the reader a better understanding. 
+For most websites, it could calculate by traffics and how many people stay after a certain amount of time. Those quantities measurements could tell if this website is a good business model or not based on actual numbers that could be count. 
 
-I don't think my website will provide a replacement of higher education because it's completely different purposes. I hope my website could be used for those who need to switch their career path or those interested in the designer career but don't have enough class to come with it. 
+On the other hand, I like more qualitative measurements like a survey or direct interview with the user. This method could allow me to understand the logistic behind the user psychology and find more points to improve in the future. 
+
+### Interview Question
+
+- Do you think this website is beneficial in your career path? 
+- Would you recommend this website to your classmate, peers or friends? 
+- Do you found useful skill you wish to learn in this website? 
+
+I wish to use those specific interview to measure the outcome of user. 
+
+### Outcome Goals
+
+- User learned from the classes 
+- User advanced its careers 
+- User found class helpful
+
+After all those survey, we could ask user what is missing in the process. We could also visit other website and compare a rating system on the scale from 1 to 10. This method could find out which platform user is more preferred and modify our platform along the way. 

@@ -22,9 +22,21 @@ The winner will be a vote by all viewers who participate in these challenges, an
 
 The second idea is about building a community. For a lot of content we learned online, we learned alone and hoped we could talk with our virtual classmates and could ask them some questions. 
 
+I wish the community could form a mentor-mentee relationship between our future designers and leaders who already in the industry, like creative directors and HRs. I bet this channel will be a better solution for HRs found next great designers. In the design industry and advertising world, I believe the experience is very important and the learning abilities. 
+
+I had a conversation with my boss when I was an intern for an advertising agency, and we talk about the software are consistently changing and updating in recent years. There will always be new content that came out and replace the old one, so as designers, we need consistently learning the stuff every day. Here is the reason why I believe this could come in very handy. My platform provides a place for long time career advancement and learning that not only benefit the student but many people who already in their position. 
+
 
 
 ## General Design Curriculum
+
+Here is some example about the curriculum that I talked about. I hope to design each individual path with different difficulties, like of curriculum in college that you have pre-requirement. But instead of pre-requirement, the general electives will be skippable here. There will be there different tiers of class. For example, as Motion Graphic Designer, the tiers will be:  
+
+Stage 1: General Design, Design Foundation, Basic After Effects Theory 
+
+Stage 2: More After Effects Class, Motion Graphics Foundation, After Effects Principles in Motion Graphics Contents 
+
+Stage 3: After Effects Plugin, Cinema 4D related content
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20210317172912.png)
 
