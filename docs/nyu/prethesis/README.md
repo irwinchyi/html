@@ -28,7 +28,7 @@ Hello, welcome to my pre-thesis project: Designer Path.
 
 [Week 8: Continuing Research](Week8.md)
 
-[Week 9: Refined Storyline](Week8.md)
+[Week 9: Refined Storyline](Week9.md)
 
 [Week 10: Usability Test](Week10.md)
 
