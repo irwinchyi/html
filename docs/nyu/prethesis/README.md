@@ -14,7 +14,7 @@ Hello, welcome to my pre-thesis project: Designer Path.
 
 [Week 1: Research Questions](Week1.md)
 
-[Week 2: Initiate Idea: Designer Path](Week 2)
+[Week 2: Initiate Idea: Designer Path](Week 2.md)
 
 [Week 3: First Presentation](Week3.md)
 
