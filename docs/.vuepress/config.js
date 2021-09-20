@@ -45,6 +45,10 @@ module.exports = {
         },
         { text:'Learn',
             items: [
+                {text: '2021 Fall', items:[
+                    {text: '3D', link: '/nyu/3D/'},
+                    {text: 'Thesis', link: '/nyu/thesis/'},
+                ]},
                 {text: '2021 Spring', items:[
                     {text: 'Pre-Thesis', link: '/nyu/prethesis/'},
                 ]},
