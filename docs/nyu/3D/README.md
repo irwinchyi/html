@@ -12,7 +12,7 @@ actionLink: https://docs.google.com/document/d/1ZABEcNMm7eQKptUAguo6rvGr2fwBy-Hw
 
 # Welcome to my 3D Art & Aesthetics Process Blog
 
-
+[Week 1: Story Through the Lighting](Week1.md)
 
 <br>
 
