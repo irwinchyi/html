@@ -3,7 +3,7 @@ title: 3D Art & Aesthetics Process Blog
 lang: en-US
 sidebarDepth: 2
 home: true
-heroImage: 
+heroImage: /images/3Dhero.png
 heroText: 3D Art & Aesthetics Process Blog
 tagline: Welcome
 actionText: Check Syllabus
