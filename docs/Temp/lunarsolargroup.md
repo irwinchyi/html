@@ -7,7 +7,7 @@ sidebarDepth: 2
 # Flying Embers Design Test
 
 ```md
-::: This page will only avaialble temporary
+::: tip This page will only avaialble temporary
 Build Time: Oct 24, 2021
 Purpose: Design Test, Lunar Solar Group
 Remove by: Nov 14, 2021
