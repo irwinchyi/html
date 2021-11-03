@@ -16,6 +16,8 @@ actionLink: https://docs.google.com/document/d/1ZABEcNMm7eQKptUAguo6rvGr2fwBy-Hw
 
 [Week 2: Moodboard](Week2.md)
 
+[Exterior Process Blog](Exterior.md)
+
 <br>
 
 <br>

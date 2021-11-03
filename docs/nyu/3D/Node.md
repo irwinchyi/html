@@ -1,10 +1,10 @@
 ---
-title: Maya
+title: Arnold Node
 lang: en-US
 sidebarDepth: 2
 ---
 
-# Maya Node Connection
+# Arnold Node Connection
 
 ### Quick Reference Guide
 
