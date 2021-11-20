@@ -74,7 +74,7 @@ I have one warm light from the left side
 
 One cooler light from the right side 
 
-![image-20211120132729156](/Users/wqi/Library/Application Support/typora-user-images/image-20211120132729156.png)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/image-20211120132729156.png)
 
 
 
