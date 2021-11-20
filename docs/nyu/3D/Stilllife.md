@@ -6,6 +6,10 @@ sidebarDepth: 2
 
 # Still Life Process Blog 
 
+## Final Result
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211120132125.png)
+
 
 
 ## What I Picked?
@@ -19,6 +23,14 @@ sidebarDepth: 2
 
 
 ## How did I model things?
+
+I couldn't find the model online, or the model I found online was too expensive, and I am not ready to spend that amount of money. 
+
+I don't wish to spend too much time modeling, so I didn't use Maya to model my objects. I am unfamiliar with modeling in Maya. To make things done quickly and I could spend more time on material and lighting. I decided that I was going to use Cinema 4D to model stuff. 
+
+So I modeled my own glass cups, although it is not very close to the original one. For grapes, I found a free model online, and it doesn't come with texture, so I prepared to recreate texture using Arnold.
+
+Lastly, I found this pear on Quixel Bridge, and I didn't modify the modeling of the pear. 
 
 ### Cups
 
@@ -50,16 +62,44 @@ sidebarDepth: 2
 
 
 
+## Lighting
+
+I created two lights, both area lights. 
+
+Also I created two cups, the cup is too transparent so I doesn't cast enough shadow. I created another cup, made it invisible in Arnold, but it cast more shadow. 
+
+I have one warm light from the left side
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211120132654.png)
+
+One cooler light from the right side 
+
+![image-20211120132729156](/Users/wqi/Library/Application Support/typora-user-images/image-20211120132729156.png)
+
+
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211120132532.png)
+
+
+
 ## How did I progress?
 
-| Description | Image                                                        |
-| ----------- | ------------------------------------------------------------ |
-|             | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211119015839.png) |
-|             |                                                              |
-|             |                                                              |
-|             |                                                              |
-|             |                                                              |
-|             |                                                              |
+| Description                                  | Image                                                        |
+| -------------------------------------------- | ------------------------------------------------------------ |
+| First Render with HDRI to check the material | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211119015839.png) |
+| Have a Flower Now                            | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211120131944.png) |
+| Low Quality Render                           | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211120132026.png) |
+| High Quality Render                          | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211120132052.png) |
+| Retouch in Photoshop                         | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211120132125.png) |
+
+
+
+## What new stuff did I learn from this assignment? 
+
+- Be more confidence in my modeling skills
+- Create Glass Using Arnold, change the attributes
+- IOR of the glass is 1.5 to 1.7, the IOR of the Water is 1.333333
+- Use subsurface, it let my grapes looks more natural 
 
 
 
