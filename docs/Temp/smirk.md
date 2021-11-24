@@ -4,7 +4,27 @@ lang: en-US
 sidebarDepth: 2
 ---
 
-# 😏
+# 🙄
+
+## "Spit don't rinse"
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211124082015.png)
+
+“Spit don’t rinse” is the message from the Oral Health Foundation as new research reveals many of us could be putting our oral health at risk by making the mistake of rinsing after we brush our teeth.
+
+Dr Carter said: “Rinsing our mouth with water is very bad for our teeth as it washes away the protective fluoride left behind by brushing.
+
+“Fluoride is the single-most important ingredient in toothpaste. It greatly helps oral health by strengthening the tooth enamel, making it more resistant to tooth decay. It also reduces the amount of acid that the bacteria on your teeth produce.
+
+“By spitting toothpaste out then not rinsing with water it ensures that the fluoride found in the majority of toothpastes will remain on the teeth and continue to be effective.”
+
+The research also found that less than while around a quarter (23%) of us correctly spit without rinsing, one in seven (14%) prefer to rinse our mouth out with mouthwash.
+
+“It may also be surprising to some but using mouthwash directly after brushing is also bad for our teeth as it also rinses away fluoride,” added Dr Carter.
+
+[Wanless, M. Oral health: Spitting evidence. *Br Dent J* **217,** 612 (2014). https://doi.org/10.1038/sj.bdj.2014.1057](https://www.nature.com/articles/sj.bdj.2014.1057#citeas)
+
+
 
 ## Watch TV at Dark Room is Bad
 
