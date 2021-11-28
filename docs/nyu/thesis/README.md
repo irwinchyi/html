@@ -34,13 +34,9 @@ actionLink: https://docs.google.com/document/d/1ron1Z9INzCu7YJUSWU0wIJRKHcphHt_6
 
 ## Data
 
-```md
 ::: warning Data Might Be Outdated 
 The data gathered here might change by University at any time; please use it as reference only. For detailed price information, please visit the individual university website, and check for their student health policy information for more detail. 
 :::
-```
-
-
 
 <br>
 
