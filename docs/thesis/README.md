@@ -12,9 +12,9 @@ actionLink: https://docs.google.com/document/d/1ron1Z9INzCu7YJUSWU0wIJRKHcphHt_6
 
 # Inforance
 
-[ERVO](https://note.itdtp.com/nyu/thesis/#ervo) 
+[ERVO](#ervo) 
 
-[AMS](./#ams)
+[AMS](./README.md/#ervo-base-on-ranking)
 
 ## ERVO
 
