@@ -29,15 +29,21 @@ Young adults are a generally healthy population, other than students with chroni
 
 The formulary of this ratio could be written as: 
 
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211129105927.png)
 
 
 
+## ERVO (U.S. News Ranking)
+
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/BasedonRanking.jpg)
 
 
 
-## ERVO Base on Ranking
+## ERVO (Ranked by Value)
 
-![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/ERVO.webp)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/rankingvalue.jpg)
+
+
 
 # AMS
 
