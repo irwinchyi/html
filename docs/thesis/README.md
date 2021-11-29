@@ -20,6 +20,19 @@ actionLink: https://docs.google.com/document/d/1ron1Z9INzCu7YJUSWU0wIJRKHcphHt_6
 
 ## What is ERVO?
 
+Currently there are very few research studies comparing the disparity of SHIP coverage among different universities. Additionally, I could not find any similar study to the quality of SHIP coverage. 
+
+One metric currently used to measure the insurance quality is called “actuarial value”. It did a great job to provide an overall level, but this is way too over-generalized. The formula of actuarial value is “Actuarial Present Value / Average Cost (FirstQuoteHealth).” Additionally, this metric failed to present the variation between different polities, price variation. “ ... health insurance plans can vary greatly even within the same actuarial metal levels.(FirstQuoteHealth)”
+Without any metrics existing to represent specific for student body, I created a metric called Emergency Visit Value Ratio (ERVO) Here’s couple reason why I created ERVO and its significance: 
+
+Young adults are a generally healthy population, other than students with chronic or pre-existing conditions. Their top reason for using healthcare resources is emergency visits. As mentioned in the previous background section, the data provided by UnitedHealthcare shows that the average ER visit charge is $2,200. This ratio is a measurement of “good emergency cover” vs. “bad emergency coverage” counts on the difference between premium average. The ERVO created an imaginary scenario of one student having one ER visit, which cost $2,200. There are two factors that influence the ERVO: how much their insurance will cover for this $2200 emergency visit compared to medium, and How much they need to pay for premium per year compared to 54 universities' average premium. 
+
+The formulary of this ratio could be written as: 
+
+
+
+
+
 
 
 ## ERVO Base on Ranking
@@ -30,9 +43,82 @@ actionLink: https://docs.google.com/document/d/1ron1Z9INzCu7YJUSWU0wIJRKHcphHt_6
 
 ## What is AMS?
 
+This number is intended to evaluate a situation when the insured patient faces catastrophic accidents that require multiple experience procedures or a long stay in the hospital. 
+
+The index uses the formulary of 
+$$
+AMS = Out of Pocket Maximum + Premium
+$$
+This number represents the maximum amount of money per year that insured students need to pay out of pocket when facing catastrophic medical events. The lower number represents the colleges that have better coverage for students when facing this situation. 
+
+The **average AMS** among 54 universities is $**7,376.21**. 
+
+Purdue University has the lowest AMS, at $2,850. Its policy has a $1,500 out-of-pocket maximum, and students need to pay the premium of $1,350 per year. Emory University has the highest AMS, $11,018. Its policy has the highest out-of-pocket maximum among all universities at $7,000, and students need to pay the premium of $4,018 per year. New York University has the second-highest AMS at $10,995. Its policy has a fairly high out-of-pocket maximum of $7,350, and students need to pay the premium of $3,645 per year. This number is extremely useful to evaluate the coverage university provides in big, catastrophic medical events like car accidents and heart attacks. When insured students face these catastrophic medical events, while Purdue University students only need to pay $2,850, NYU students need to spend more than three times that number: $10,995. 
+
+<br>
+
+## AMS Data
+
+| Ranking | Name                                        | AMS    |
+| ------- | ------------------------------------------- | ------ |
+| 1       | Princetown                                  | 7780   |
+| 2       | MIT                                         | 7089   |
+| 2       | Columbia                                    | 6892   |
+| 2       | Harvard University                          | 7040   |
+| 5       | Yale University                             | 9000   |
+| 6       | The University of Chicago                   | 6066   |
+| 6       | Standford                                   | 10192  |
+| 8       | University of Pennsylvania                  | 5374   |
+| 9       | JHU                                         | 5482   |
+| 9       | Caltech                                     | 4576   |
+| 9       | Duke                                        | 5605   |
+| 9       | Northwestern U                              | 6386   |
+| 13      | Dartmouth College                           | 7163   |
+| 14      | Washington University in St. Louis          | 6942   |
+| 14      | Vanderbilt                                  | 7269   |
+| 14      | Brown                                       | 10554  |
+| 17      | Rice University                             | 8650   |
+| 17      | Cornell University                          | 6135   |
+| 19      | University of Notre Dame                    | 8680   |
+| 20      | UCLA                                        | 4799   |
+| 21      | Emory                                       | 11018  |
+| 22      | UCB                                         | 7038   |
+| 23      | University of Michigan Ann Arbor            | 5295.8 |
+| 23      | Georgetown                                  | 5965   |
+| 25      | Carnegie Mellon University                  | 7603   |
+| 25      | University of Virginia                      | 8148   |
+| 27      | USC                                         | 10009  |
+| 28      | University of North Carolina at Chapel Hill | 6616.8 |
+| 28      | Wake Forest                                 | 7724   |
+| 28      | Florida                                     | 9148   |
+| 28      | UCSB                                        | 9882   |
+| 28      | NYU                                         | 10995  |
+| 28      | Tufts                                       | 7755   |
+| 34      | Rochester                                   | 9290   |
+| 34      | UCSD                                        | 5855   |
+| 36      | UCI                                         | 4962   |
+| 36      | Boston College                              | 5535   |
+| 38      | William Mary                                | 9889   |
+| 38      | Georgia Institute of Technology             | 8896   |
+| 38      | UT Austin                                   | 9694   |
+| 38      | UC Davis                                    | 7720   |
+| 42      | University of Wisconsin–Madison             | 5476   |
+| 42      | Tulane                                      | 7926   |
+| 42      | Boston University                           | 8554   |
+| 42      | Case Western Reserve University             | 9692   |
+| 42      | Brandeis                                    | 5509   |
+| 47      | UIUC                                        | 8986   |
+| 48      | Georgia                                     | 8767   |
+| 49      | Purdue University                           | 2850   |
+| 49      | Lehigh                                      | 3557   |
+| 49      | Northeastern                                | 5799   |
+| 49      | Pepperdine                                  | 8096   |
+| 49      | OSU                                         | 6066   |
+| 49      | Villanova                                   | 6325   |
 
 
-# Data
+
+# Data Source
 
 
 
