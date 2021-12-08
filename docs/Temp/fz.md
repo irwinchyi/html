@@ -14,7 +14,7 @@ sidebarDepth: 2
 
 如果你还没有拿到你 insurance card
 
-https://www.studentinsurance.com/MyAccount/Account/Index/793
+[https://www.studentinsurance.com/MyAccount/Account/Index/793](https://www.studentinsurance.com/MyAccount/Account/Index/793)
 
 去这里
 
@@ -22,7 +22,7 @@ https://www.studentinsurance.com/MyAccount/Account/Index/793
 
 ## 2. Make Appt with Brooklyn ENT 
 
-https://www.entandallergy.com/
+[https://www.entandallergy.com/](https://www.entandallergy.com/)
 
 你可以直接在网上约
 
