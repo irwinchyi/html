@@ -73,11 +73,11 @@ So I miss the mountain too. So this assignment, I incorporated the yaodong and m
 | Name                            | Material Preview                                             | Note                       |
 | ------------------------------- | ------------------------------------------------------------ | -------------------------- |
 | **D_Concrete_17**               | <img src="https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211211131259.png" style="zoom:25%;" /> | Modified from GSG Redshift |
-| **C_Gun_Metal_02**              | <img src="/Users/wqi/Library/Application Support/typora-user-images/image-20211211133846524.png" alt="image-20211211133846524" style="zoom:25%;" /> | Modified from GSG Redshift |
-| **D_Cloth_White**               | <img src="/Users/wqi/Library/Application Support/typora-user-images/image-20211211134606590.png" alt="image-20211211134606590" style="zoom:25%;" /> | Modified from GSG Redshift |
-| **D_Leather_Tan_01**            | <img src="/Users/wqi/Library/Application Support/typora-user-images/image-20211211180144783.png" alt="image-20211211180144783" style="zoom:25%;" /> | Modified from GSG Redshift |
+| **C_Gun_Metal_02**              | <img src="https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/image-20211211133846524.png" alt="image-20211211133846524" style="zoom:25%;" /> | Modified from GSG Redshift |
+| **D_Cloth_White**               | <img src="https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/image-20211211134606590.png" alt="image-20211211134606590" style="zoom:25%;" /> | Modified from GSG Redshift |
+| **D_Leather_Tan_01**            | <img src="https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/image-20211211180144783.png" alt="image-20211211180144783" style="zoom:25%;" /> | Modified from GSG Redshift |
 | **D_Paper_01**                  | <img src="https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211212194559.png" style="zoom:25%;" /> | Modified from GSG Redshift |
-| **D_BlackPlasticDull**          | <img src="/Users/wqi/Library/Application Support/typora-user-images/image-20211212195818020.png" alt="image-20211212195818020" style="zoom:25%;" /> | Modified from GSG Redshift |
+| **D_BlackPlasticDull**          | <img src="https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/image-20211212195818020.png" alt="image-20211212195818020" style="zoom:25%;" /> | Modified from GSG Redshift |
 | **D_Wood_Caramel_Oak_Plank_02** | <img src="https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20211212212959.png" style="zoom:25%;" /> | Modified from GSG Redshift |
 
 
