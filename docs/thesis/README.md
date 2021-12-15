@@ -10,8 +10,6 @@ actionText: Read Thesis Paper →
 actionLink: https://drive.google.com/file/d/1sAvNe9WHv3aT6_ktXsnrAT-Gb2hCkWs4/view
 ---
 
-
-
 <br>
 
 <br>
