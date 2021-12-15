@@ -10,7 +10,7 @@ actionText: Check Syllabus
 actionLink: https://docs.google.com/document/d/1ron1Z9INzCu7YJUSWU0wIJRKHcphHt_6GlDmS6vlr5Q/edit?usp=sharing
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ByCpplZk2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/6ByCpplZk2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
