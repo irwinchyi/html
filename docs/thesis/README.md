@@ -6,6 +6,8 @@ home: true
 heroImage: /images/thesishero.png
 heroText: Inforance
 tagline: An Examination of College Student Health Insurance Policies and its Impact in the United States and Designing an App
+actionText: Read Thesis Paper →
+actionLink: https://drive.google.com/file/d/1sAvNe9WHv3aT6_ktXsnrAT-Gb2hCkWs4/view
 ---
 
 <iframe width="100%" height="auto" src="https://www.youtube.com/embed/6ByCpplZk2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
