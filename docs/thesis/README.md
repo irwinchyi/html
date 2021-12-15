@@ -10,9 +10,36 @@ actionText: Read Thesis Paper →
 actionLink: https://drive.google.com/file/d/1sAvNe9WHv3aT6_ktXsnrAT-Gb2hCkWs4/view
 ---
 
-<iframe width="100vw" height="calc(100vw/1.77)" src="https://www.youtube.com/embed/6ByCpplZk2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<br>
+
+<br>
+
+<br>
+
+<style>
+  iframe {
+    .video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+}
+		.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+  }
+</style>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/6ByCpplZk2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<br>
+
+<br>
 
 Health insurance is a very complex area. This thesis focuses on the area of student insurance literacy and its impact. Current college students and their generation as a whole have been shown to have limited health insurance literacy. Furthermore, the uneven distribution of health insurance-related educational resources among universities is not helping students improve their knowledge of health care. For various reasons, some universities’ student health insurance policies do not sufficiently protect their students. To address this issue, this thesis introduces a novel metric like ERVO (Emergency Room Visit Value Ratio) and AMS (Annual Maximum Speeding) to measure coverage efficacy and economic efficacy among 54 universities in the United States.
 
