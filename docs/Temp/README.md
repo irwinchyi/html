@@ -7,7 +7,7 @@ heroText: Irwin's Recent Work
 tagline: Welcome
 ---
 
-<iframe src='https://my.spline.design/glasscirclescopy-f20ca7799bc3089cce1d972e853c77af/' frameborder='0' width='100 vw' height='400px'></iframe>
+<iframe src='https://my.spline.design/glasscirclescopy-f20ca7799bc3089cce1d972e853c77af/' frameborder='0' width='100vw' height='400px'></iframe>
 
 <br>
 
