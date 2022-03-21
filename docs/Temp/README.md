@@ -3,10 +3,9 @@ title: Irwin's Recent Work
 lang: en-US
 sidebarDepth: 2
 home: true
-heroImage: 
 ---
 
-<iframe src='https://my.spline.design/glasscirclescopy-f20ca7799bc3089cce1d972e853c77af/' frameborder='0' width='100%' height='100%'></iframe>
+<iframe src='https://my.spline.design/glasscirclescopy-f20ca7799bc3089cce1d972e853c77af/' frameborder='0' width='800px' height='400px'></iframe>
 
 <br>
 
