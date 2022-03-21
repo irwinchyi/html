@@ -6,7 +6,7 @@ home: true
 heroText: Irwin's Recent Work
 ---
 
-<iframe src='https://my.spline.design/glasscirclescopy-f20ca7799bc3089cce1d972e853c77af/' frameborder='0' width='100%' height='500px'></iframe>
+<iframe src='https://my.spline.design/glasscirclescopy-f20ca7799bc3089cce1d972e853c77af/' frameborder='0' width='100%' height='400px'></iframe>
 
 Irwin is a goofy/creative advertising guy. 
 
