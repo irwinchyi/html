@@ -12,8 +12,10 @@ Irwin is a goofy/creative advertising guy.
 His favorite thing to do is press "**Command + S**" 
 
 He is an After Effects and Cinema 4D guru. He believes in learning for a lifetime.
+
 **Learning is teaching. Teaching is learning. **
-He teaches Creative Coding, Media Law, and Media Theory at his alma mater New York University. He also lectures motion graphics design using After Effects, 3D design using Cinema 4D, and Javascripts to the next generation of designers. 
+
+He teaches Creative Coding, Media Law, and Media Theory at his alma mater - New York University. He also lectures motion graphics design using After Effects, 3D design using Cinema 4D, and Javascripts to the next generation of designers. 
 
 <br>
 
