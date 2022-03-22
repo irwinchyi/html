@@ -26,9 +26,20 @@ He teaches Creative Coding, Media Law, and Media Theory at his alma mater New Yo
 
 # Featuring Clients
 
-[ERVO](#ervo) 
+[Allscripts](#Allscripts) 
 
 [Spectrum News 1](#spectrum)
+
+
+
+
+
+| Client | Video                                                        |
+| ------ | ------------------------------------------------------------ |
+| OPPD   | <iframe src="https://player.vimeo.com/video/633254053?h=c95fc12de2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="853" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="OPPD"></iframe> |
+|        |                                                              |
+|        |                                                              |
+|        |                                                              |
 
 
 
@@ -44,9 +55,10 @@ He teaches Creative Coding, Media Law, and Media Theory at his alma mater New Yo
 
 
 
+## 3D
 
-
-
+| <iframe src="https://player.vimeo.com/video/690785818?h=3c38982d71&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="853" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Instagram post by Irwin Qi &amp;bull; Dec 11, 2021 at 4-52pm UTC -  - 2022-03-21 23-22-46"></iframe> | <iframe src="https://player.vimeo.com/video/613892160?h=e063181107&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="joined_video_6b4a10131b024f6d9ad978f2f652fcf4_1"></iframe> | <iframe src="https://player.vimeo.com/video/389593686?h=22bf3f85e6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="2019 C4D Reel"></iframe> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
