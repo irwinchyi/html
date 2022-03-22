@@ -36,7 +36,7 @@ He teaches Creative Coding, Media Law, and Media Theory at his alma mater New Yo
 
 | Client | Video                                                        |
 | ------ | ------------------------------------------------------------ |
-| OPPD   | <iframe src="https://player.vimeo.com/video/633254053?h=c95fc12de2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="853" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="OPPD"></iframe> |
+| OPPD   | <iframe src="https://player.vimeo.com/video/633254053?h=c95fc12de2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="OPPD"></iframe> |
 |        |                                                              |
 |        |                                                              |
 |        |                                                              |
