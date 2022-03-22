@@ -18,11 +18,11 @@ He teaches Creative Coding, Media Law, and Media Theory at his alma mater New Yo
 
 # Featuring Clients
 
-[Allscripts](#Allscripts) 
+[Allscripts](#allscripts) 
 
 [Spectrum News 1](#spectrum)
 
-[NYU](#NYU)
+[NYU](#nyu)
 
 
 
@@ -57,7 +57,7 @@ He teaches Creative Coding, Media Law, and Media Theory at his alma mater New Yo
 
 
 
-## Drawings
+## Drawings (Click to Enlarge)
 
 | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/Untitled_Artwork%204.png) | ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/sadawdacaw.jpg) | ![edwjqaolclcjaqipw](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/edwjqaolclcjaqipw.jpg) | ![dwajilkncklsacnlwaid](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/dwajilkncklsacnlwaid.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
