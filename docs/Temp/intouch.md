@@ -18,12 +18,8 @@
 
 ## Race Car Option 1
 
-![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/5-Animated%20Image%20(Large).gif)
-
-## Race Car Option 2
-
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/6-Animated%20Image%20(Large).gif)
 
-## Race Car option 3
+## Race Car option 2
 
 ![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/7-Animated%20Image%20(Large).gif)
