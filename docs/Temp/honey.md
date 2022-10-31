@@ -4,11 +4,11 @@
 
 ## Update Option 1
 
-![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20221031113401.png)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20221031135332.png)
 
-![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20221031110200.png)
+![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/20221031135529.png)
 
-![](https://raw.githubusercontent.com/irwinchyi/imgbed/master/img/125Artboard3%4010x.png)
+![125Artboard 1@10x](/Users/wqi/Library/CloudStorage/OneDrive-NYULangoneHealth/Shared Documents/Projects/221012A Honey Packaging Label/10x/125Artboard 1@10x.png)
 
 
 
