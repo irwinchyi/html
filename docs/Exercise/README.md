@@ -14,6 +14,8 @@ sidebarDepth: 2
 
 ## Leg Press 倒蹬动作要点
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iqxZO3xod2I?si=t0Se0CD981pbY3Dq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 高代谢压力
 
 倒蹬超伸会导致危险受伤，远离膝盖
