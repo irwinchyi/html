@@ -13,21 +13,16 @@ His favorite thing to do is press "**Command + S**"
 
 He is an After Effects and Cinema 4D guru. He believes in learning for a lifetime.
 
-**Learning is teaching. Teaching is learning. **
-
 He teaches Creative Coding, Media Law, and Media Theory at his alma mater - New York University. He also lectures motion graphics design using After Effects, 3D design using Cinema 4D, and Javascripts to the next generation of designers. 
 
 <br>
 
 <br>
 
-# Featuring Clients
+## NYU Langone
 
-[Allscripts](#allscripts) 
-
-[Spectrum News 1](#spectrum)
-
-[NYU](#nyu)
+| <iframe src="https://player.vimeo.com/video/917196537?h=05da0a170e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="169" height="300" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="02-27-2024 What is an Aortic Aneurysm? Mark Peterson_9x16"></iframe> | <iframe src="https://player.vimeo.com/video/917197861?h=18c4d2896f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="169" height="300" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="02-05-2024 West Palm Beach Donation Announcement 9x16"></iframe> | <iframe src="https://player.vimeo.com/video/917199282?h=50d7038b32&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="300" height="169" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="01-23-2024 Garden City Highlight Video 16x9"></iframe> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
